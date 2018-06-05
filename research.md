@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Here is a topic-by-topic summary of current and past projects I was involved in. Please refer to my <a href="/CV">CV</a> for a chronological list of manuscripts and publications.
+Here is a topic-by-topic summary of current and past projects I was involved in. Please refer to my <a href="/cv">CV</a> for a chronological list of manuscripts and publications.
 
 * * *
 
