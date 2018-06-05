@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Research | Najoung Kim</title>
+<meta name="generator" content="Jekyll v3.8.2" />
+<meta property="og:title" content="Research" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="JHU Cognitive Science" />
+<meta property="og:description" content="JHU Cognitive Science" />
+<link rel="canonical" href="http://localhost:4000/research/" />
+<meta property="og:url" content="http://localhost:4000/research/" />
+<meta property="og:site_name" content="Najoung Kim" />
+<script type="application/ld+json">
+{"description":"JHU Cognitive Science","@type":"WebPage","url":"http://localhost:4000/research/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/pic.jpg"}},"headline":"Research","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://localhost:4000/">Najoung Kim</a></h1>
+        
+        <!--<p>JHU Cognitive Science</p>-->
+        [n&#593;&#720;d&#865;​&#658;&#652;&#331; k&#688;&#618;m]
+        <p>Department of Cognitive Science, <br>Johns Hopkins University</p>
+
+        
+          <img src="/assets/img/pic.jpg" width=60% alt="Logo" />
+        
+
+        <br><br>
+
+        <p style="font-size:12px">Office: 145 Krieger Hall <br> Mail: 237 Krieger Hall <br> <a href="mailto:n.kim@jhu.edu">n.kim@jhu.edu</font>
+        <br> 
+
+        <p style="font-size:20px"><a href="/">About</a></p>
+
+        <p style="font-size:20px"><a href="/research/">Research</a></p>
+
+        <p style="font-size:20px"><a href="/cv/">CV</a></p>
+
+        
+
+        
+
+        
+
+        
+        
+        
+        <br>
+          <a href="https://www.linkedin.com/in/najoung-kim-a00803100/"><img src="/assets/img/linked.png" alt="linkedin" /></a>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </header>
+      <section>
+
+      <p>Here is a topic-by-topic summary of current and past projects I was involved in. Please refer to my <a href="/CV">CV</a> for a chronological list of manuscripts and publications.</p>
+
+<hr />
+
+<h3 id="gradient-blend-model-of-argumenthood">Gradient blend model of argumenthood</h3>
+<p>What distinguishes arguments (or complements) from adjuncts? Although people do seem to have intuitions about what counts as an argument, there is no known deterministic test for argumenthood. It has long been suggested that the argument-adjunct status is a spectrum rather than a dichotomy, but how to formally model this gradience has not been actively discussed. I am currently investigating this issue through English preposition phrases, the argument-adjunct status of which is not trivial in many cases. Current projects in this area include:</p>
+<ul>
+  <li>Building a gradient argumenthood dataset through crowdsourcing
+    <ul>
+      <li>Scaled argumenthood scores for VerbNet and PropBank examples</li>
+      <li><a href="http://decomp.net/semantic-proto-roles/">Semantic proto-role</a> annotations for preposition phrases</li>
+    </ul>
+  </li>
+  <li>Developing a linguistic formalism to better capture gradience
+    <ul>
+      <li>Advocating the necessity of <em>blendedness</em> in addition to gradience in modeling argumenthood based on human judgment patterns</li>
+    </ul>
+  </li>
+  <li>Supervised learning of argumenthood</li>
+</ul>
+
+<p>See <a href="/assets/img/organization.png">this diagram</a> from my departmental talk for a better idea of the workflow in this project!</p>
+
+<h3 id="semantic-scoring-of-category-fluency-test-results">‘Semantic’ scoring of Category Fluency Test results</h3>
+<p>Category Fluency Test (CFT) is a commonly used behavioral task in clinical settings, as an individual’s performance on the task is known to be affected by factors such as age and dementia. The task is to name as many items in a given semantic category (e.g., animals) as possible in a sixty seconds. Traditional analyses of performance on this task mainly rely on word counts, but it has been shown in the literature that ‘clustering’ and ‘switching’ patterns in the data also need to be taken into account. However, clustering analysis is not in wide use since it relies on a time-consuming and language/domain-specific manual annotation protocol. Here is a line of work that addresses these issues:</p>
+
+<ul>
+  <li>
+    <p>In this <a target="_blank" href="https://pdfs.semanticscholar.org/9c22/208e82caa1dece8c2f803b16cb89e343d17a.pdf">paper</a> (Interspeech 2016), we have shown that a combination of prosodic and distributional semantic analyses provides important insights into clustering patterns in CFT data.</p>
+  </li>
+  <li>
+    <p>Building on this result, we aim to present a fully automated semantic scoring method using both relational and distributional models (manuscript in preparation). A sketch can be found <a target="_blank" href="http://www.macsim.us/wordpress/wp-content/uploads/2016/09/macsim6_KimN.pdf">here</a> (presented at MACSIM 2016)</p>
+  </li>
+</ul>
+
+<h3 id="morphological-strategies-in-neology">Morphological strategies in neology</h3>
+<p>Producing new word-forms through morphology is a part of typical language use, whether or not speakers (or the society) consciously recognize them as novel or not. Inflection (<em>type-typed</em>) and derivation (<em>type-typist</em>) being example of the most common strategies in English. Native speakers also have an intuition about how productive a strategy is; for instance, <em>-ness</em> seems to be a more productive nominalization affix compared to <em>-th</em>. Is this intuition quantifiable, and what can this information tell us?</p>
+
+<ul>
+  <li>In my B.A. dissertation project (2014), I constructed a corpus of Korean <em>Neograms</em>, which refers to whitespace units (roughly equivalent to words) that have never been observed before. I developed a novel measure of productivity for an affix and verified it with a human judgment experiment.
+    <ul>
+      <li>According to the results, the three most productive Korean affixes (as of 2014) are <em>-lon ‘theory of’</em>, <em>-phwung ‘style of’</em> and <em>-kyey ‘group/type of’</em>!</li>
+    </ul>
+  </li>
+  <li>In my Master’s dissertation (2015), I developed an automatic detector-classifier for Korean Neograms.
+    <ul>
+      <li>Detector uses modified WordRank strategy (<em>F</em>=74.08)</li>
+      <li>Classifier can identify the following strategies: compounding, derivation, foreign word/proper nouns and initialism</li>
+      <li>Rule-based; might experiment with a neural model in the future</li>
+    </ul>
+  </li>
+  <li>A ‘lexical innovation’ measure (the rate of unobserved words; i.e., Neograms) was developed, taking inspiration from the above works. <a target="_blank" href="http://conference.hcikorea.org/pds/2016/pdf/PR_002.pdf">A longitudinal study</a> (HCI Korea 2016) of literary works by an author diagnosed with Alzheimer’s, revealed a strong association between the decline in lexical innovation and the progression of dementia over time.</li>
+</ul>
+
+
+      </section>
+
+      <footer>
+
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+    
+  </body>
+</html>
