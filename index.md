@@ -14,7 +14,7 @@ I will be participating in <a href="https://www.clsp.jhu.edu/workshops/18-worksh
 ### Education / Professional experience
 <dl>
 <dt>2016&#8211; </dt>
-<dd>Ph.D. Student<br> <a href="http://cogsci.jhu.edu/">Dept. of Cognitive Science</a>, Johns Hopkins University</dd>
+<dd>Ph.D. student<br> <a href="http://cogsci.jhu.edu/">Dept. of Cognitive Science</a>, Johns Hopkins University</dd>
 <br>
 <dt>2015&#8211;2016  </dt>
 <dd>Visiting researcher <br> <a href="http://nlpcl.kaist.ac.kr">NLP*CL Lab</a>, School of Computing, KAIST</dd>
