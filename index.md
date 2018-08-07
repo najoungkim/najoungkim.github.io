@@ -7,8 +7,10 @@ I'm a second-year PhD student in the Cognitive Science department at Johns Hopki
 
 * * *
 ### Updates
+* Oct 25-27 2018:
+Talk at <a href="https://sites.google.com/site/cialt2berlin/home">CiALT2</a> (Berlin)
 * Jun--Aug 2018:
-I will be participating in <a href="https://www.clsp.jhu.edu/workshops/18-workshop/">JSALT 2018</a> as a member of the General-Purpose Sentence Representation Learning <a href="https://jsalt18-sentence-repl.github.io/">team</a>.
+At <a href="https://www.clsp.jhu.edu/workshops/18-workshop/">JSALT</a> General-Purpose Sentence Representation Learning <a href="https://jsalt18-sentence-repl.github.io/">team</a> (Baltimore)
 
 * * *
 ### Education / Professional experience
