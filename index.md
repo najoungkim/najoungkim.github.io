@@ -10,7 +10,7 @@ I'm a third-year PhD student in the Cognitive Science department at Johns Hopkin
 * Oct 25 2018:
 Talk at <a href="https://sites.google.com/view/acceptability/home">Acceptability judgments workshop</a> (Barcelona)
 * Oct 26-27 2018:
-Talk at <a href="https://sites.google.com/site/cialt2berlin/home">CiALT2</a> (Berlin)
+Talk at <a href="https://sites.google.com/site/cialt2berlin/home">CiALT2</a> (Berlin) (<a target="_blank" href="/assets/files/CiALT2_kim_rawlins_smolensky.pdf">abstract</a>)
 * Jun--Aug 2018:
 At <a href="https://www.clsp.jhu.edu/workshops/18-workshop/">JSALT</a> General-Purpose Sentence Representation Learning <a href="https://jsalt18-sentence-repl.github.io/">team</a> (Baltimore)
 
