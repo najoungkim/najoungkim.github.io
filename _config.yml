@@ -23,6 +23,7 @@ github_username:  najoungkim
 logo: "/assets/img/pic.jpg"
 linkedin: "/assets/img/linked.png"
 twitter: "/assets/img/twitter.png"
+cookie: "/assets/img/cookie.png"
 
 # Build settings
 markdown: kramdown
