@@ -9,7 +9,8 @@ permalink: /publications/
 <br>
 
 ### In progress
-<b>Najoung Kim</b>, Kyle Rawlins, Benjamin Van Durme and Paul Smolensky. Predicting Argumenthood of English Preposition Phrases. (<i>submitted</i>) [<a target="_blank" href="/assets/files/prep_argumenthood.pdf">pdf</a>] \[arXiv]
+<b>Najoung Kim</b>, Kyle Rawlins, Benjamin Van Durme and Paul Smolensky. Predicting Argumenthood of English Preposition Phrases. (<i>submitted</i>) 
+<br>[<a target="_blank" href="https://arxiv.org/abs/1809.07889">arXiv</a>] \[<a target="_blank" href="/assets/files/prep_argumenthood.pdf">pdf</a>]
 
 <b>Najoung Kim</b>, Kyle Rawlins and Paul Smolensky. Motivating gradient symbolic blends---case of English preposition phrases.  (<i>submitted</i>) [pdf]
 
