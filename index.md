@@ -8,7 +8,7 @@ I'm a third-year PhD student in the Cognitive Science department at Johns Hopkin
 * * *
 ### Updates
 * Oct 25 2018:
-Talk at <a href="https://sites.google.com/view/acceptability/home">Acceptability judgments workshop</a> (Barcelona)
+Talk at <a href="https://sites.google.com/view/acceptability/home">Acceptability judgments workshop</a> (Barcelona) [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
 * Oct 26-27 2018:
 Talk at <a href="https://sites.google.com/site/cialt2berlin/home">CiALT2</a> (Berlin) [<a target="_blank" href="/assets/files/CiALT2_kim_rawlins_smolensky.pdf">abstract</a>]
 * Sep 28 2018:

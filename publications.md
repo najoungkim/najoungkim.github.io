@@ -19,9 +19,9 @@ permalink: /publications/
 <br>
 ### 2018
 
-<b>Najoung Kim</b>, Kyle Rawlins and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Conference on Interdisciplinary Approaches to Linguistic Theory (CiALT) 2</i>, Berlin, Oct 2018. [<a target="_blank" href="/assets/files/CiALT2_kim_rawlins_smolensky.pdf">pdf</a>]
+<b>Najoung Kim</b>, Kyle Rawlins and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Conference on Interdisciplinary Approaches to Linguistic Theory (CiALT) 2</i>, Berlin, Oct 2018. [<a target="_blank" href="/assets/files/CiALT2_kim_rawlins_smolensky.pdf">abstract</a>]
 
-<b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Acceptability judgments in current linguistic theory, Universitat Aut\`onoma de Barcelona</i>, Oct 2018.
+<b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Acceptability judgments in current linguistic theory, Universitat Aut\`onoma de Barcelona</i>, Oct 2018. [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
 
 <b>Najoung Kim</b>, Benjamin Van Durme and Paul Smolensky. Linguistically informed tasks for evaluating structure encoded by sentence representations. <i>Facebook WeCNLP Summit</i>, Menlo Park, CA, Sep 2018. [<a target="_blank" href="/assets/files/wecnlp2018.pdf">pdf</a>]
 <br>
