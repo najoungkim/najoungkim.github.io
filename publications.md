@@ -9,14 +9,14 @@ permalink: /publications/
 <br>
 
 ### In progress
-<b>Najoung Kim</b>, Kyle Rawlins, Benjamin Van Durme and Paul Smolensky. Predicting Argumenthood of English Preposition Phrases. (<i>submitted</i>) 
-<br>[<a target="_blank" href="https://arxiv.org/abs/1809.07889">arXiv</a>] \[<a target="_blank" href="/assets/files/prep_argumenthood.pdf">pdf</a>]
-
-<b>Najoung Kim</b>, Kyle Rawlins and Paul Smolensky. Motivating gradient symbolic blends---case of English preposition phrases.  (<i>submitted</i>) [pdf]
+<b>Najoung Kim</b>, Kyle Rawlins and Paul Smolensky. Motivating gradient symbolic blends---case of English preposition phrases.  (<i>in preparation</i>)
 
 <b>Najoung Kim</b>, Jung-Ho Kim, Maria K. Wolters, Sarah E. MacPherson, and Jong C. Park. Automatic Scoring of Semantic Fluency. (<i>in preparation</i>)
 <br>
 <br>
+### 2019
+<b>Najoung Kim</b>, Kyle Rawlins, Benjamin Van Durme and Paul Smolensky. Predicting Argumenthood of English Preposition Phrases. <i>To appear in the Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-2019)</i>. [<a target="_blank" href="https://arxiv.org/abs/1809.07889">arXiv</a>] \[<a target="_blank" href="/assets/files/prep_argumenthood.pdf">pdf</a>]
+
 ### 2018
 
 <b>Najoung Kim</b>, Kyle Rawlins and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Conference on Interdisciplinary Approaches to Linguistic Theory (CiALT) 2</i>, Berlin, Oct 2018. [<a target="_blank" href="/assets/files/CiALT2_kim_rawlins_smolensky.pdf">abstract</a>]

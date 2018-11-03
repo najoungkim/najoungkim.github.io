@@ -7,10 +7,11 @@ I'm a third-year PhD student in the Cognitive Science department at Johns Hopkin
 
 * * *
 ### Updates
+* Nov 1 2018: Our paper "Predicting Argumenthood of English Preposition Phrases" has been accepted to <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a> (16.2% acceptance rate!). Joint work with Kyle Rawlins, Ben Van Durme & Paul Smolensky. [<a target="_blank" href="https://arxiv.org/abs/1809.07889">preprint</a>]
 * Oct 25 2018:
 Talk at <a href="https://sites.google.com/view/acceptability/home">Acceptability judgments workshop</a> (Barcelona) [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
 * Oct 26-27 2018:
-Talk at <a href="https://sites.google.com/site/cialt2berlin/home">CiALT2</a> (Berlin) [<a target="_blank" href="/assets/files/CiALT2_kim_rawlins_smolensky.pdf">abstract</a>]
+Talk at <a href="https://sites.google.com/site/cialt2berlin/home">CiALT2</a> (Berlin) [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
 * Sep 28 2018:
 Lightening talk & poster at <a href="https://wecnlpsummit2018rsvp.splashthat.com/">WeCNLP Summit</a> (Facebook, Menlo Park) [<a target="_blank" href="/assets/files/nkim_wecnlp_poster.pdf">poster</a>] \[<a target="_blank" href="/assets/files/nkim_wecnlp_slides.pdf">slides</a>] 
 * Jun--Aug 2018:
