@@ -13,7 +13,7 @@ Talk at <a href="https://sites.google.com/view/acceptability/home">Acceptability
 * Oct 26-27 2018:
 Talk at <a href="https://sites.google.com/site/cialt2berlin/home">CiALT2</a> (Berlin) [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
 * Sep 28 2018:
-Lightening talk & poster at <a href="https://wecnlpsummit2018rsvp.splashthat.com/">WeCNLP Summit</a> (Facebook, Menlo Park) [<a target="_blank" href="/assets/files/nkim_wecnlp_poster.pdf">poster</a>] \[<a target="_blank" href="/assets/files/nkim_wecnlp_slides.pdf">slides</a>] 
+Lightning talk & poster at <a href="https://wecnlpsummit2018rsvp.splashthat.com/">WeCNLP Summit</a> (Facebook, Menlo Park) [<a target="_blank" href="/assets/files/nkim_wecnlp_poster.pdf">poster</a>] \[<a target="_blank" href="/assets/files/nkim_wecnlp_slides.pdf">slides</a>] 
 * Jun--Aug 2018:
 At <a href="https://www.clsp.jhu.edu/workshops/18-workshop/">JSALT</a> General-Purpose Sentence Representation Learning <a href="https://jsalt18-sentence-repl.github.io/">team</a> (Baltimore)
 
