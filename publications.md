@@ -11,19 +11,23 @@ permalink: /publications/
 ### In progress
 <b>Najoung Kim</b>, Kyle Rawlins and Paul Smolensky. Motivating gradient symbolic blends---case of English preposition phrases.  (<i>in preparation</i>)
 
-<b>Najoung Kim</b>, Jung-Ho Kim, Maria K. Wolters, Sarah E. MacPherson, and Jong C. Park. Automatic Scoring of Semantic Fluency. (<i>in preparation</i>)
+<b>Najoung Kim</b>, Jung-Ho Kim, Maria K. Wolters, Sarah E. MacPherson, and Jong C. Park. Automatic Scoring of Semantic Fluency. (<i>under review</i>)
 <br>
 <br>
 ### 2019
-<b>Najoung Kim</b>, Kyle Rawlins, Benjamin Van Durme and Paul Smolensky. Predicting Argumenthood of English Preposition Phrases. <i>To appear in the Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-2019)</i>. [<a target="_blank" href="https://arxiv.org/abs/1809.07889">arXiv</a>] \[<a target="_blank" href="/assets/files/prep_argumenthood.pdf">pdf</a>]
+<b>Najoung Kim</b>, Kyle Rawlins, Benjamin Van Durme, and Paul Smolensky. Predicting Argumenthood of English Preposition Phrases. <i>To appear in the Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-2019)</i>. [<a target="_blank" href="https://arxiv.org/abs/1809.07889">arXiv</a>] \[<a target="_blank" href="/assets/files/prep_argumenthood.pdf">pdf</a>]
+
+Samuel R. Bowman, Ellie Pavlick, Edouard Grave, Benjamin Van Durme, Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, <b>Najoung Kim</b>, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, and Berlin Chen. Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling. [<a target="_blank" href="https://arxiv.org/abs/1812.10860">arXiv</a>]
+
+Ian Tenney, Patrick Xia, Berlin Chen, Alex Wang, Adam Poliak, R Thomas McCoy, <b>Najoung Kim</b>, Benjamin Van Durme, Sam Bowman, Dipanjan Das, and Ellie Pavlick. What do you learn from context? Probing for sentence structure in contextualized word representations. <i>ICLR 2019</i>. [<a target="_blank" href="https://openreview.net/forum?id=SJzSgnRcKX">link</a>] 
 
 ### 2018
 
-<b>Najoung Kim</b>, Kyle Rawlins and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Conference on Interdisciplinary Approaches to Linguistic Theory (CiALT) 2</i>, Berlin, Oct 2018. [<a target="_blank" href="/assets/files/CiALT2_kim_rawlins_smolensky.pdf">abstract</a>]
+<b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Conference on Interdisciplinary Approaches to Linguistic Theory (CiALT) 2</i>, Berlin, Oct 2018. [<a target="_blank" href="/assets/files/CiALT2_kim_rawlins_smolensky.pdf">abstract</a>]
 
 <b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Acceptability judgments in current linguistic theory, Universitat Aut\`onoma de Barcelona</i>, Oct 2018. [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
 
-<b>Najoung Kim</b>, Benjamin Van Durme and Paul Smolensky. Linguistically informed tasks for evaluating structure encoded by sentence representations. <i>Facebook WeCNLP Summit</i>, Menlo Park, CA, Sep 2018.
+<b>Najoung Kim</b>, Benjamin Van Durme and Paul Smolensky. Linguistically informed tasks for evaluating structure encoded by sentence representations. <i>Facebook WeCNLP Summit</i>, Menlo Park, CA, Sep 2018. [<a target="_blank" href="/assets/files/wecnlp2018.pdf">pdf</a>]
 <br>
 <br>
 ### 2016

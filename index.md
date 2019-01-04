@@ -7,6 +7,7 @@ I'm a third-year PhD student in the Cognitive Science department at Johns Hopkin
 
 * * *
 ### Updates
+* Dec 2018: <a href="https://arxiv.org/pdf/1812.10860.pdf">Two</a> <a href="https://openreview.net/forum?id=SJzSgnRcKX">papers</a> on probing sentence representations are out.
 * Nov 1 2018: Our paper "Predicting Argumenthood of English Preposition Phrases" has been accepted to <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a> (16.2% acceptance rate!). Joint work with Kyle Rawlins, Ben Van Durme & Paul Smolensky. [<a target="_blank" href="https://arxiv.org/abs/1809.07889">preprint</a>]
 * Oct 25 2018:
 Talk at <a href="https://sites.google.com/view/acceptability/home">Acceptability judgments workshop</a> (Barcelona) [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
