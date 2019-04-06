@@ -7,6 +7,7 @@ I'm a third-year PhD student in the Cognitive Science department at Johns Hopkin
 
 * * *
 ### Updates
+* Apr 2019: Function words probing paper accepted to <a href="https://starsem.org/2019">\*SEM</a>! Work with JSALT 2018 Sentence Rep <a href="https://jsalt18-sentence-repl.github.io/">Team</a>. 
 * Dec 2018: <a href="https://arxiv.org/pdf/1812.10860.pdf">Two</a> <a href="https://openreview.net/forum?id=SJzSgnRcKX">papers</a> on probing sentence representations are out.
 * Nov 1 2018: Our paper "Predicting Argumenthood of English Preposition Phrases" has been accepted to <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a> (16.2% acceptance rate!). Joint work with Kyle Rawlins, Ben Van Durme & Paul Smolensky. [<a target="_blank" href="https://arxiv.org/abs/1809.07889">preprint</a>]
 * Oct 25 2018:
@@ -15,8 +16,8 @@ Talk at <a href="https://sites.google.com/view/acceptability/home">Acceptability
 Talk at <a href="https://sites.google.com/site/cialt2berlin/home">CiALT2</a> (Berlin) [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
 * Sep 28 2018:
 Lightning talk & poster at <a href="https://wecnlpsummit2018rsvp.splashthat.com/">WeCNLP Summit</a> (Facebook, Menlo Park) [<a target="_blank" href="/assets/files/nkim_wecnlp_poster.pdf">poster</a>] \[<a target="_blank" href="/assets/files/nkim_wecnlp_slides.pdf">slides</a>] 
-* Jun--Aug 2018:
-At <a href="https://www.clsp.jhu.edu/workshops/18-workshop/">JSALT</a> General-Purpose Sentence Representation Learning <a href="https://jsalt18-sentence-repl.github.io/">team</a> (Baltimore)
+<!--* Jun--Aug 2018:
+At <a href="https://www.clsp.jhu.edu/workshops/18-workshop/">JSALT</a> General-Purpose Sentence Representation Learning <a href="https://jsalt18-sentence-repl.github.io/">team</a> (Baltimore)-->
 
 * * *
 ### Education / Professional experience
