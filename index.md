@@ -7,15 +7,18 @@ I'm a fourth-year PhD student in the Cognitive Science department at Johns Hopki
 
 * * *
 ### Updates
-* Aug 2019: Super happy to announce that a preprint of our paper on modeling PP argumenthood as gradient blends is now on <a href="https://ling.auf.net/lingbuzz/004723">LingBuzz</a>! Work with my advisors Kyle Rawlins & Paul Smolensky.  
-* Aug 2019: <a href="https://www.linguisticsociety.org/abstract/maximize-presupposition-and-korean-demonstrative-ku">Abstract</a> on demonstratives with Sadhwi Srinivas & Kyle Rawlins accepted to <a href="https://www.linguisticsociety.org/event/lsa-2020-annual-meeting">LSA 2020</a>.
+* Summer 2020: Will be at Google Mountain View.
+* Jan 2020: Presented a <a href="/assets/files/LSA_ku_poster.pdf">poster</a> on demonstratives with Sadhwi Srinivas & Kyle Rawlins at <a href="https://www.linguisticsociety.org/event/lsa-2020-annual-meeting">LSA 2020</a>. 
+* Dec 2019: Presented a paper titled <a href="/assets/files/Kim_Linzen_NeurIPS_workshop_camready.pdf">Compositionality as Directional Consistency in Sequential Neural Networks</a> at the <a href="https://context-composition.github.io/">Compositionality Workshop</a> at NeurIPS 2019. 
+* Aug 2019: A preprint of our paper on modeling PP argumenthood as gradient blends is now on <a href="https://ling.auf.net/lingbuzz/004723">LingBuzz</a> (note: currently undergoing major revisions). Work with my advisors Kyle Rawlins & Paul Smolensky.
 * Summer 2019: Interned with the <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=8073">Conversational Systems</a> team at IBM Research, looking at conditional structures and representations for discourse more generally. Preprint coming soon...
 * Jul 2019: <a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1439/">Pretraining paper</a> with the JSALT Sentence Rep team presented at ACL 2019.
 * Jun 2019: <a href="https://starsem.org/2019">\*SEM</a> paper received <a href="https://twitter.com/_starsem/status/1136645141547094016">Best Paper Award</a>!
-* May 2019: <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01020/full">Paper</a> on semantic fluency accepted to Frontiers in Psychology.
-* Apr 2019: <a href="https://arxiv.org/abs/1904.11544">Function words probing paper</a> accepted to <a href="https://starsem.org/2019">\*SEM</a>! Work with JSALT 2018 Sentence Rep <a href="https://jsalt18-sentence-repl.github.io/">Team</a>. 
 
 <!--
+* Aug 2019: <a href="https://www.linguisticsociety.org/abstract/maximize-presupposition-and-korean-demonstrative-ku">Abstract</a> on demonstratives with Sadhwi Srinivas & Kyle Rawlins accepted to <a href="https://www.linguisticsociety.org/event/lsa-2020-annual-meeting">LSA 2020</a>.
+* May 2019: <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01020/full">Paper</a> on semantic fluency accepted to Frontiers in Psychology.
+* Apr 2019: <a href="https://arxiv.org/abs/1904.11544">Function words probing paper</a> accepted to <a href="https://starsem.org/2019">\*SEM</a>! Work with JSALT 2018 Sentence Rep <a href="https://jsalt18-sentence-repl.github.io/">Team</a>. 
 ** Dec 2018: <a href="https://arxiv.org/pdf/1812.10860.pdf">Two</a> <a href="https://openreview.net/forum?id=SJzSgnRcKX">papers</a> on probing sentence representations are out.
 Nov 1 2018: Our paper "Predicting Argumenthood of English Preposition Phrases" has been accepted to <a href="https://aaai.org/Conferences/AAAI-19/">AAAI 2019</a> (16.2% acceptance rate!). Joint work with Kyle Rawlins, Ben Van Durme & Paul Smolensky. [<a target="_blank" href="https://arxiv.org/abs/1809.07889">preprint</a>]
 * Oct 25 2018:

@@ -9,13 +9,15 @@ permalink: /publications/
 <br>
 
 ### In progress
-<b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. The complement-adjunct distinction as gradient blends: the case of English prepositional phrases. <a target="_blank" href="https://ling.auf.net/lingbuzz/004723">lingbuzz/004723</a> (<i>under review</i>)
+<b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. The complement-adjunct distinction as gradient blends: the case of English prepositional phrases. <a target="_blank" href="https://ling.auf.net/lingbuzz/004723">lingbuzz/004723</a> (<i>under revision</i>)
 
 ### 2020
-Sadhwi Srinivas, <b>Najoung Kim</b>, and Kyle Rawlins. Maximize presupposition and the Korean demonstrative <i>ku</i>. To be presented at <i>The 94th Annual Meeting of the Linguistic Society of America (LSA)</i>, 2020. \[<a target="_blank" href="https://www.linguisticsociety.org/abstract/maximize-presupposition-and-korean-demonstrative-ku">abstract</a>] 
+Sadhwi Srinivas, <b>Najoung Kim</b>, and Kyle Rawlins. Maximize presupposition and the Korean demonstrative <i>ku</i>. Presented at <i>The 94th Annual Meeting of the Linguistic Society of America (LSA)</i>, 2020. \[<a target="_blank" href="https://www.linguisticsociety.org/abstract/maximize-presupposition-and-korean-demonstrative-ku">abstract</a>] [<a href="/assets/files/LSA_ku_poster.pdf">poster</a>]
 
 
 ### 2019
+<b>Najoung Kim</b> and Tal Linzen. Compositionality as Directional Consistency in Sequential Neural Networks. <i>Workshop on Context and Compositionality in Biological and Artificial Neural Systems, 33rd Conference on Neural Information Processing Systems (NeurIPS 2019)</i>, 2019. [<a href="/assets/files/Kim_Linzen_NeurIPS_workshop_camready.pdf">pdf</a>]
+
 <b>Najoung Kim</b>, Roma Patel, Adam Poliak, Alex Wang, Patrick Xia, Tom McCoy, Ian Tenney, Alexis Ross, Tal Linzen, Benjamin Van Durme, Sam Bowman, and Ellie Pavlick. Probing what different NLP tasks teach machines about function word comprehension. <i>Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (\*SEM)</i>, 2019.  \[<a target="_blank" href="https://arxiv.org/abs/1904.11544">link</a>] <b>Best Paper Award</b>
 
 Alex Wang, Jan Hula, Patrick Xia, Raghavendra  Pappagari,  R. Thomas McCoy, Roma Patel, <b>Najoung Kim</b>, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, and Samuel R. Bowman. How to Get Past Sesame Street: Sentence-Level Pretraining Beyond Language Modeling. <i>Proceedings of the Annual Conference of the Association for Computational Linguistics (ACL)</i>, 2019. \[<a target="_blank" href="https://www.aclweb.org/anthology/P19-1439">link</a>]
