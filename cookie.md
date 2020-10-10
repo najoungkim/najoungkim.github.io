@@ -8,6 +8,6 @@ permalink: /cookie/
 <br>
 <br>
 <br>
-<img src="/assets/img/coooookie.png">
+<img src="/assets/img/cook.jpg">
 
-This is my cat Cookie. He is extremely cute. 
+This is my cat Cookie in 2020. He is extremely cute. 

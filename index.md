@@ -3,19 +3,25 @@ layout: default
 title: Home
 ---
 
-I'm a fourth-year PhD student in the Cognitive Science department at Johns Hopkins University, working with Dr. <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> and Dr. <a href="http://sites.krieger.jhu.edu/rawlins/">Kyle Rawlins</a>. My (broad) areas of interest are lexical semantics, syntax-semantics interface and morphology, and I use computational and psycholinguistic methodologies to explore these areas. I also sometimes think about linguistic representations in NLP and how to evaluate them better. Please refer to the <a href="/publications">Publications</a> section for past and ongoing projects.
+I'm a fifth year PhD student in the Cognitive Science department at Johns Hopkins University, working with Dr. <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> and Dr. <a href="http://sites.krieger.jhu.edu/rawlins/">Kyle Rawlins</a>. My main areas of interest are computational semantics/pragmatics, and generalization in humans and machine learning models. I use computational and experimental linguistic methodologies to explore these areas. Please refer to the <a href="/publications">Publications</a> section to find out more.
+
+As of October 2020, 60% of me is at JHU dissertating, and 40% of me is at Google as a student researcher working on presuppositions for question-answering, both remotely :)
 
 * * *
 ### Updates
-* Summer 2020: Will be at Google Mountain View.
+* Sep 2020: "COGS: A Compositional Generalization Challenge Based on Semantic Interpretation" with <a href="http://tallinzen.net/">Tal Linzen</a> was accepted to EMNLP 2020! Preprint coming soon.
+* Sep 2020: Gave an invited presentation at the Microsoft Research AI Breakthroughs Workshop. Check out our <a href="/assets/files/cogs_poster.pdf">poster</a>!
+* Aug 2020: At Google for another few months as a student researcher, continuing my work on presuppositions for question-answering.
+* July 2020: Presented our paper <a href="https://www.aclweb.org/anthology/2020.acl-main.480/">Implicit Discourse Relation Classification: We Need to Talk About Evaluation</a> at <a href="https://acl2020.org/">ACL 2020</a>. This was based on my internship project at <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=8073">IBM Research</a>.
+* Summer 2020: At Google as a research intern with Deepak Ramachandran and Ellie Pavlick!
 * Jan 2020: Presented a <a href="/assets/files/LSA_ku_poster.pdf">poster</a> on demonstratives with Sadhwi Srinivas & Kyle Rawlins at <a href="https://www.linguisticsociety.org/event/lsa-2020-annual-meeting">LSA 2020</a>. 
 * Dec 2019: Presented a paper titled <a href="/assets/files/Kim_Linzen_NeurIPS_workshop_camready.pdf">Compositionality as Directional Consistency in Sequential Neural Networks</a> at the <a href="https://context-composition.github.io/">Compositionality Workshop</a> at NeurIPS 2019. 
+
+<!--
 * Aug 2019: A preprint of our paper on modeling PP argumenthood as gradient blends is now on <a href="https://ling.auf.net/lingbuzz/004723">LingBuzz</a> (note: currently undergoing major revisions). Work with my advisors Kyle Rawlins & Paul Smolensky.
 * Summer 2019: Interned with the <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=8073">Conversational Systems</a> team at IBM Research, looking at conditional structures and representations for discourse more generally. Preprint coming soon...
 * Jul 2019: <a href="https://www.aclweb.org/anthology/papers/P/P19/P19-1439/">Pretraining paper</a> with the JSALT Sentence Rep team presented at ACL 2019.
 * Jun 2019: <a href="https://starsem.org/2019">\*SEM</a> paper received <a href="https://twitter.com/_starsem/status/1136645141547094016">Best Paper Award</a>!
-
-<!--
 * Aug 2019: <a href="https://www.linguisticsociety.org/abstract/maximize-presupposition-and-korean-demonstrative-ku">Abstract</a> on demonstratives with Sadhwi Srinivas & Kyle Rawlins accepted to <a href="https://www.linguisticsociety.org/event/lsa-2020-annual-meeting">LSA 2020</a>.
 * May 2019: <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01020/full">Paper</a> on semantic fluency accepted to Frontiers in Psychology.
 * Apr 2019: <a href="https://arxiv.org/abs/1904.11544">Function words probing paper</a> accepted to <a href="https://starsem.org/2019">\*SEM</a>! Work with JSALT 2018 Sentence Rep <a href="https://jsalt18-sentence-repl.github.io/">Team</a>. 
@@ -34,8 +40,15 @@ At <a href="https://www.clsp.jhu.edu/workshops/18-workshop/">JSALT</a> General-P
 * * *
 ### Education / Professional experience
 <dl>
-<dt>2016&#8211; </dt>
-<dd>Ph.D. student<br> <a href="http://cogsci.jhu.edu/">Dept. of Cognitive Science</a>, Johns Hopkins University</dd>
+<dt>Current: </dt>
+<dd>Ph.D. student,<br> <a href="http://cogsci.jhu.edu/">Dept. of Cognitive Science</a>, Johns Hopkins University</dd>
+<dd>Student Researcher, <a href="https://ai.google/">Google</a></dd>
+<br>
+<dt>Summer 2020  </dt>
+<dd>Research Intern, <a href="https://ai.google/">Google</a></dd>
+<br>
+<dt>Summer 2019  </dt>
+<dd>Research Intern, <a href="https://researcher.watson.ibm.com/researcher/view_group.php?id=8073">IBM research</a></dd>
 <br>
 <dt>2015&#8211;2016  </dt>
 <dd>Visiting researcher <br> <a href="http://nlpcl.kaist.ac.kr">NLP*CL Lab</a>, School of Computing, KAIST</dd>

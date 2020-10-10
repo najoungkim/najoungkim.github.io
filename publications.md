@@ -4,7 +4,7 @@ title: Publications & Presentations
 permalink: /publications/
 ---
 
-## Publications and presentations
+## Publications and Presentations
 
 <br>
 
@@ -12,6 +12,11 @@ permalink: /publications/
 <b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. The complement-adjunct distinction as gradient blends: the case of English prepositional phrases. <a target="_blank" href="https://ling.auf.net/lingbuzz/004723">lingbuzz/004723</a> (<i>under revision</i>)
 
 ### 2020
+<b>Najoung Kim</b> and Tal Linzen. COGS: A Compositional Generalization Challenge Based on Semantic Interpretation. To be published in the <i>Proceedings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2020. Preprint coming soon.
+
+<b>Najoung Kim</b>, Song Feng, Chulaka Gunasekara, and Luis A. Lastras. <a href="https://www.aclweb.org/anthology/2020.acl-main.480/">Implicit Discourse Relation Classification: We Need to Talk About Evaluation</a>. <i>Proceedings of the Annual Conference of the Association for Computational Linguistics (ACL)</i>, 2020.
+
+
 Sadhwi Srinivas, <b>Najoung Kim</b>, and Kyle Rawlins. Maximize presupposition and the Korean demonstrative <i>ku</i>. Presented at <i>The 94th Annual Meeting of the Linguistic Society of America (LSA)</i>, 2020. \[<a target="_blank" href="https://www.linguisticsociety.org/abstract/maximize-presupposition-and-korean-demonstrative-ku">abstract</a>] [<a href="/assets/files/LSA_ku_poster.pdf">poster</a>]
 
 
