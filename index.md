@@ -9,6 +9,7 @@ I'm a fifth year PhD student in the Cognitive Science department at Johns Hopkin
 ### Updates
 * Nov 2020: Got recommended for an <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505033">NSF Doctoral Dissertation Improvement Grant in Linguistics</a>!! 🥳
 * Nov 2020: Wrapped up my internship/student researcher program at Google. Back to dissertating :)
+* Nov 2020: Presented COGS at EMNLP. See my talk <a href="https://slideslive.com/38939064/cogs-a-composition-generalization-challenge-based-on-semantic-interpretation">here</a>.
 * Sep 2020: "COGS: A Compositional Generalization Challenge Based on Semantic Interpretation" with <a href="http://tallinzen.net/">Tal Linzen</a> was accepted to EMNLP 2020! <a href="https://www.aclweb.org/anthology/2020.emnlp-main.731/">Link</a>.
 * Sep 2020: Gave an invited presentation at the Microsoft Research AI Breakthroughs Workshop. Check out our <a href="/assets/files/cogs_poster.pdf">poster</a>!
 * Aug 2020: At Google for another few months as a student researcher, continuing my work on presuppositions for question-answering.
