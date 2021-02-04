@@ -9,10 +9,16 @@ permalink: /publications/
 <br>
 
 ### In progress
+<b>Najoung Kim</b>, Ellie Pavlick, Burcu Karagol Ayan, and Deepak Ramachandran. Which Linguist Invented the Lightbulb? Presupposition Verification for Question-Answering. \[<a target="_blank" href="https://arxiv.org/abs/2101.00391">arXiv</a>\] (<i>in submission</i>)
+
 <b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. The complement-adjunct distinction as gradient blends: the case of English prepositional phrases. <a target="_blank" href="https://ling.auf.net/lingbuzz/004723">lingbuzz/004723</a> (<i>under revision</i>)
 
+### 2021
+
+<b>Najoung Kim</b> and Paul Smolensky. Testing for Grammatical Category Abstraction in Neural Language Models. To appear in the <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>, 2021.
+
 ### 2020
-<b>Najoung Kim</b> and Tal Linzen. <a href="https://www.aclweb.org/anthology/2020.emnlp-main.731/">COGS: A Compositional Generalization Challenge Based on Semantic Interpretation</a>. In the <i>Proceedings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2020.
+<b>Najoung Kim</b> and Tal Linzen. <a href="https://www.aclweb.org/anthology/2020.emnlp-main.731/">COGS: A Compositional Generalization Challenge Based on Semantic Interpretation</a>. In the <i>Proceedings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2020. \[<a target="_blank" href="https://slideslive.com/38939064/cogs-a-composition-generalization-challenge-based-on-semantic-interpretation">talk</a>
 
 <b>Najoung Kim</b>, Song Feng, Chulaka Gunasekara, and Luis A. Lastras. <a href="https://www.aclweb.org/anthology/2020.acl-main.480/">Implicit Discourse Relation Classification: We Need to Talk About Evaluation</a>. <i>Proceedings of the Annual Conference of the Association for Computational Linguistics (ACL)</i>, 2020.
 
@@ -21,18 +27,18 @@ Sadhwi Srinivas, <b>Najoung Kim</b>, and Kyle Rawlins. Maximize presupposition a
 
 
 ### 2019
-<b>Najoung Kim</b> and Tal Linzen. Compositionality as Directional Consistency in Sequential Neural Networks. <i>Workshop on Context and Compositionality in Biological and Artificial Neural Systems, 33rd Conference on Neural Information Processing Systems (NeurIPS 2019)</i>, 2019. [<a href="/assets/files/Kim_Linzen_NeurIPS_workshop_camready.pdf">pdf</a>]
+<b>Najoung Kim</b> and Tal Linzen. <a href="/assets/files/Kim_Linzen_NeurIPS_workshop_camready.pdf">Compositionality as Directional Consistency in Sequential Neural Networks</a>. <i>Workshop on Context and Compositionality in Biological and Artificial Neural Systems, 33rd Conference on Neural Information Processing Systems (NeurIPS 2019)</i>, 2019.
 
-<b>Najoung Kim</b>, Roma Patel, Adam Poliak, Alex Wang, Patrick Xia, Tom McCoy, Ian Tenney, Alexis Ross, Tal Linzen, Benjamin Van Durme, Sam Bowman, and Ellie Pavlick. Probing what different NLP tasks teach machines about function word comprehension. <i>Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (\*SEM)</i>, 2019.  \[<a target="_blank" href="https://arxiv.org/abs/1904.11544">link</a>] <b>Best Paper Award</b>
+<b>Najoung Kim</b>, Roma Patel, Adam Poliak, Alex Wang, Patrick Xia, Tom McCoy, Ian Tenney, Alexis Ross, Tal Linzen, Benjamin Van Durme, Sam Bowman, and Ellie Pavlick. <a target="_blank" href="https://arxiv.org/abs/1904.11544">Probing What Different NLP Tasks Teach Machines About Function Word Comprehension</a>. <i>Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (\*SEM)</i>, 2019. <b>Best Paper Award</b>
 
-Alex Wang, Jan Hula, Patrick Xia, Raghavendra  Pappagari,  R. Thomas McCoy, Roma Patel, <b>Najoung Kim</b>, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, and Samuel R. Bowman. How to Get Past Sesame Street: Sentence-Level Pretraining Beyond Language Modeling. <i>Proceedings of the Annual Conference of the Association for Computational Linguistics (ACL)</i>, 2019. \[<a target="_blank" href="https://www.aclweb.org/anthology/P19-1439">link</a>]
+Alex Wang, Jan Hula, Patrick Xia, Raghavendra  Pappagari,  R. Thomas McCoy, Roma Patel, <b>Najoung Kim</b>, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, and Samuel R. Bowman. <a target="_blank" href="https://www.aclweb.org/anthology/P19-1439">How to Get Past Sesame Street: Sentence-Level Pretraining Beyond Language Modeling</a>. <i>Proceedings of the Annual Conference of the Association for Computational Linguistics (ACL)</i>, 2019.
 
-<b>Najoung Kim</b>, Jung-Ho Kim, Maria K. Wolters, Sarah E. MacPherson, and Jong C. Park. Automatic Scoring of Semantic Fluency. <i>Frontiers in Psychology</i>, 2019. \[<a target="_blank" href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01020/full">link</a>]
+<b>Najoung Kim</b>, Jung-Ho Kim, Maria K. Wolters, Sarah E. MacPherson, and Jong C. Park. <a target="_blank" href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01020/full">Automatic Scoring of Semantic Fluency</a>. <i>Frontiers in Psychology</i>, 2019.
 
-<b>Najoung Kim</b>, Kyle Rawlins, Benjamin Van Durme, and Paul Smolensky. Predicting Argumenthood of English Preposition Phrases. <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-2019)</i>. [<a target="_blank" href="https://arxiv.org/abs/1809.07889">arXiv</a>] \[<a target="_blank" href="https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4626/4504">pdf</a>]
+<b>Najoung Kim</b>, Kyle Rawlins, Benjamin Van Durme, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/1809.07889">Predicting the Argumenthood of English Prepositional Phrases</a>. <i>Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-2019)</i>.
 
 
-Ian Tenney, Patrick Xia, Berlin Chen, Alex Wang, Adam Poliak, R Thomas McCoy, <b>Najoung Kim</b>, Benjamin Van Durme, Sam Bowman, Dipanjan Das, and Ellie Pavlick. What do you learn from context? Probing for sentence structure in contextualized word representations. <i>ICLR 2019</i>. [<a target="_blank" href="https://openreview.net/forum?id=SJzSgnRcKX">link</a>] 
+Ian Tenney, Patrick Xia, Berlin Chen, Alex Wang, Adam Poliak, R Thomas McCoy, <b>Najoung Kim</b>, Benjamin Van Durme, Sam Bowman, Dipanjan Das, and Ellie Pavlick. <a target="_blank" href="https://openreview.net/forum?id=SJzSgnRcKX">What do you learn from context? Probing for sentence structure in contextualized word representations</a>. <i>International Conference on Learning Representations (ICLR)</i>. 2019.
 
 ### 2018
 
@@ -40,17 +46,16 @@ Ian Tenney, Patrick Xia, Berlin Chen, Alex Wang, Adam Poliak, R Thomas McCoy, <b
 
 <b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. A gradient blend analysis of English PP verbal dependents. <i>Acceptability judgments in current linguistic theory, Universitat Aut\`onoma de Barcelona</i>, Oct 2018. [<a target="_blank" href="/assets/files/acceptability_slides.pdf">slides</a>]
 
-<b>Najoung Kim</b>, Benjamin Van Durme and Paul Smolensky. Linguistically informed tasks for evaluating structure encoded by sentence representations. <i>Facebook WeCNLP Summit</i>, Menlo Park, CA, Sep 2018. [<a target="_blank" href="/assets/files/wecnlp2018.pdf">pdf</a>]
+<b>Najoung Kim</b>, Benjamin Van Durme and Paul Smolensky. <a target="_blank" href="/assets/files/wecnlp2018.pdf">Linguistically informed tasks for evaluating structure encoded by sentence representations</a>. <i>Facebook WeCNLP Summit</i>, Menlo Park, CA, Sep 2018.
 
-Samuel R. Bowman, Ellie Pavlick, Edouard Grave, Benjamin Van Durme, Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, <b>Najoung Kim</b>, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, and Berlin Chen. Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling. 2018. [<a target="_blank" href="https://arxiv.org/abs/1812.10860">arXiv</a>]
+Samuel R. Bowman, Ellie Pavlick, Edouard Grave, Benjamin Van Durme, Alex Wang, Jan Hula, Patrick Xia, Raghavendra Pappagari, R. Thomas McCoy, Roma Patel, <b>Najoung Kim</b>, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, and Berlin Chen. <a target="_blank" href="https://arxiv.org/abs/1812.10860">Looking for ELMo's friends: Sentence-Level Pretraining Beyond Language Modeling</a>. arXiv. 2018.
 <br>
 <br>
 ### 2016
-Maria K. Wolters, <b>Najoung Kim</b>, Jung-Ho Kim, Sarah E. MacPherson, and Jong C. Park. Prosodic and Linguistic Analysis of Semantic Fluency Data: A Window into Speech Production and Cognition. <i>Interspeech</i>, 2016. [<a href="http://dx.doi.org/10.21437/Interspeech.2016-420">doi</a>] \[<a target="_blank" href="https://www.isca-speech.org/archive/Interspeech_2016/pdfs/0420.PDF">pdf</a>]
+Maria K. Wolters, <b>Najoung Kim</b>, Jung-Ho Kim, Sarah E. MacPherson, and Jong C. Park. <a href="http://dx.doi.org/10.21437/Interspeech.2016-420">Prosodic and Linguistic Analysis of Semantic Fluency Data: A Window into Speech Production and Cognition</a>. <i>Interspeech</i>, 2016.
 
-<b>Najoung Kim</b>, Jung-Ho Kim, Maria K. Wolters, Sarah E. MacPherson, and Jong C. Park. Approximating the Semantic Structures behind Category Fluency Sequences. <i>MACSIM 6</i>, CUNY, New York, Oct 2016. [<a href="http://www.macsim.us/wordpress/wp-content/uploads/2016/09/macsim6_KimN.pdf">pdf</a>]
+<b>Najoung Kim</b>, Jung-Ho Kim, Maria K. Wolters, Sarah E. MacPherson, and Jong C. Park. <a href="http://www.macsim.us/wordpress/wp-content/uploads/2016/09/macsim6_KimN.pdf">Approximating the Semantic Structures behind Category Fluency Sequences</a>. <i>MACSIM 6</i>, CUNY, New York, Oct 2016.
 
-<b>Najoung Kim</b> and Jong C. Park. A Morphological Approach to the Longitudinal Detection of Dementia. <i>Proceedings of HCI Korea 2016</i>, The HCI Society of Korea, 2016. [<a href="https://dl.acm.org/citation.cfm?id=2903628">link</a>] [<a target="_blank" href="http://conference.hcikorea.org/pds/2016/pdf/PR_002.pdf">pdf</a>]
+Jung-Ho Kim, <b>Najoung Kim</b>, Hancheol Park. and Jong C. Park. <a href="https://www.koreascience.or.kr/article/JAKO201630762631870.pdf">Enhanced Sign Language Transcription System via Hand Tracking and Pose Estimation</a>. <i>Journal of Computing Science and Engineering vol 10.3</i>, 2016.
 
-Jung-Ho Kim, <b>Najoung Kim</b>, Hancheol Park. and Jong C. Park. Enhanced Sign Language Transcription System via Hand Tracking and Pose Estimation. <i>Journal of Computing Science and Engineering vol 10.3</i>, 2016.
-
+<b>Najoung Kim</b> and Jong C. Park. <a href="https://dl.acm.org/citation.cfm?id=2903628">A Morphological Approach to the Longitudinal Detection of Dementia</a>. <i>Proceedings of HCI Korea 2016</i>, The HCI Society of Korea, 2016.
