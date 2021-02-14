@@ -9,7 +9,7 @@ I'm a fifth year PhD student in the Cognitive Science department at Johns Hopkin
 ### Updates
 * <b>I am on the job market!</b>
 * Jan 2021: Preprint for my internship work "Which Linguist Invented the Lightbulb? Presupposition Verification for Question-Answering" is now on <a href="https://arxiv.org/abs/2101.00391">arXiv</a>.
-* Dec 2020: "Testing for Grammatical Category Abstraction in Neural Language Models" with <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> accepted to <a href="https://www.scil2021.org/">SCiL 2021</a>!
+* Dec 2020: "<a href="https://scholarworks.umass.edu/scil/vol4/iss1/60/">Testing for Grammatical Category Abstraction in Neural Language Models</a>" with <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> accepted to <a href="https://www.scil2021.org/">SCiL 2021</a>!
 * Nov 2020: Got awarded an <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505033">NSF Doctoral Dissertation Improvement Grant in Linguistics</a>!! 🥳
 * Nov 2020: Wrapped up my internship/student researcher program at Google. Back to dissertating :)
 * Nov 2020: Presented COGS at EMNLP. See my talk <a href="https://slideslive.com/38939064/cogs-a-composition-generalization-challenge-based-on-semantic-interpretation">here</a>.

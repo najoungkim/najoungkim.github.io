@@ -15,7 +15,7 @@ permalink: /publications/
 
 ### 2021
 
-<b>Najoung Kim</b> and Paul Smolensky. Testing for Grammatical Category Abstraction in Neural Language Models. To appear in the <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>, 2021.
+<b>Najoung Kim</b> and Paul Smolensky. <a target="_blank" href="https://scholarworks.umass.edu/scil/vol4/iss1/60/">Testing for Grammatical Category Abstraction in Neural Language Models</a>. In the <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>, 2021.
 
 ### 2020
 <b>Najoung Kim</b> and Tal Linzen. <a href="https://www.aclweb.org/anthology/2020.emnlp-main.731/">COGS: A Compositional Generalization Challenge Based on Semantic Interpretation</a>. In the <i>Proceedings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2020. \[<a target="_blank" href="https://slideslive.com/38939064/cogs-a-composition-generalization-challenge-based-on-semantic-interpretation">talk</a>
