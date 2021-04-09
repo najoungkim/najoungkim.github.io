@@ -11,14 +11,14 @@ permalink: /publications/
 ### In progress
 <b>Najoung Kim</b>, Ellie Pavlick, Burcu Karagol Ayan, and Deepak Ramachandran. Which Linguist Invented the Lightbulb? Presupposition Verification for Question-Answering. \[<a target="_blank" href="https://arxiv.org/abs/2101.00391">arXiv</a>\] (<i>in submission</i>)
 
-<b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. The complement-adjunct distinction as gradient blends: the case of English prepositional phrases. <a target="_blank" href="https://ling.auf.net/lingbuzz/004723">lingbuzz/004723</a> (<i>under revision</i>)
+<b>Najoung Kim</b>, Kyle Rawlins, and Paul Smolensky. The complement-adjunct distinction as gradient blends: the case of English prepositional phrases (<i>under revision</i>).
 
 ### 2021
 
 <b>Najoung Kim</b> and Paul Smolensky. <a target="_blank" href="https://scholarworks.umass.edu/scil/vol4/iss1/60/">Testing for Grammatical Category Abstraction in Neural Language Models</a>. In the <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>, 2021.
 
 ### 2020
-<b>Najoung Kim</b> and Tal Linzen. <a href="https://www.aclweb.org/anthology/2020.emnlp-main.731/">COGS: A Compositional Generalization Challenge Based on Semantic Interpretation</a>. In the <i>Proceedings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2020. \[<a target="_blank" href="https://slideslive.com/38939064/cogs-a-composition-generalization-challenge-based-on-semantic-interpretation">talk</a>
+<b>Najoung Kim</b> and Tal Linzen. <a href="https://www.aclweb.org/anthology/2020.emnlp-main.731/">COGS: A Compositional Generalization Challenge Based on Semantic Interpretation</a>. In the <i>Proceedings of The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2020. \[<a target="_blank" href="https://slideslive.com/38939064/cogs-a-composition-generalization-challenge-based-on-semantic-interpretation">talk</a>]
 
 <b>Najoung Kim</b>, Song Feng, Chulaka Gunasekara, and Luis A. Lastras. <a href="https://www.aclweb.org/anthology/2020.acl-main.480/">Implicit Discourse Relation Classification: We Need to Talk About Evaluation</a>. <i>Proceedings of the Annual Conference of the Association for Computational Linguistics (ACL)</i>, 2020.
 
