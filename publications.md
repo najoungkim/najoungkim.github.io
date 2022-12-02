@@ -7,8 +7,9 @@ permalink: /publications/
 ## Publications and Presentations
 
 <br>
-<!--### In progress
--->
+
+### In progress
+Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="_blank" href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a>. PsyArXiv.
 
 ### 2021
 <b>Najoung Kim</b>. <a target="_blank" href="https://jscholarship.library.jhu.edu/handle/1774.2/66745">Compositional Linguistic Generalization in Artificial Neural Networks</a>. PhD Dissertation, Johns Hopkins University.
