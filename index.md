@@ -9,15 +9,16 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 
 * * *
 ### Updates
+* Dec 2022: Preprint of <a href="assets/files/Kim_Linzen_Smolensky_uncontrolled_lexical_exposure.pdf">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a> is out. Joint work with Tal Linzen and Paul Smolensky.
 * Dec 2022: Preprint of <a href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a> is out on PsyArXiv. Join work with Wentao Wang, Wai Keen Vong and Brenden Lake.
 * Fall 2022: Invited talks at <a href="https://www.gc.cuny.edu/linguistics">CUNY</a> and <a href="https://flann-discord.github.io/">FlaNN</a>.
 * I will be visiting Google part-time starting this summer! 😎
 * Feb 2022: My <a href="https://jscholarship.library.jhu.edu/handle/1774.2/66745">dissertation</a> is now online.
 * Spring 2022: Invited talks at <a href="https://gdr-lift.loria.fr/monthy-online-ilfc-seminar/">Seminar on the interactions between formal and computational linguistics (ILFC)</a>, <a href="https://ling.bu.edu/spring-2022-colloquium-series/">BU Linguistics Colloqiuim Series</a>, <a href="https://complang.mit.edu">MIT CompLang</a>, Google, and UChicago.
 * Fall 2021: Invited talks at <a href="https://cds.nyu.edu/">NYU CDS</a>, <a href="https://nylanguageworkshop.tumblr.com/post/663720689799413760/workshop-monday-october-4th-630-8pm-najoung">New York Philosophy of Language Workshop</a>, <a href="https://sites.google.com/umich.edu/cogscicmty/events">University of Michigan Cognitive Science Community</a>, <a href="https://ee.kaist.ac.kr/en/node/18403">KAIST Electrical Engineering Colloquium Series</a>, <a href="https://linguist.snu.ac.kr/category/board_9_SC_su0dnCGq_20201130121404/">Seoul National University Linguistics Colloqium</a>.
-* Sep 2021: Started new job at <a href="https://cds.nyu.edu">NYU CDS</a>!
 
 <!--
+* Sep 2021: Started new job at <a href="https://cds.nyu.edu">NYU CDS</a>!
 * Aug 2021: Presented the  <a href="https://aclanthology.org/2021.acl-long.304">presupposition verification paper</a> at ACL. 
 * July 2021: Defended my dissertation 🎉
 * Jan 2021: Preprint for my internship work "Which Linguist Invented the Lightbulb? Presupposition Verification for Question-Answering" is now on <a href="https://arxiv.org/abs/2101.00391">arXiv</a>.

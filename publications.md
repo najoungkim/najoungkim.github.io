@@ -9,6 +9,8 @@ permalink: /publications/
 <br>
 
 ### In progress
+<b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="assets/files/Kim_Linzen_Smolensky_uncontrolled_lexical_exposure.pdf">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
+
 Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="_blank" href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a>. PsyArXiv.
 
 ### 2021
