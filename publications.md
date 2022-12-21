@@ -11,6 +11,8 @@ permalink: /publications/
 ### In progress
 <b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="assets/files/Kim_Linzen_Smolensky_uncontrolled_lexical_exposure.pdf">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
 
+<b>Najoung Kim</b>, Phu Mon Htut, Samuel R. Bowman, and Jackson Petty. <a target="_blank" href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. arXiv.
+
 Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="_blank" href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a>. PsyArXiv.
 
 ### 2021
