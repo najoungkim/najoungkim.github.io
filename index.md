@@ -11,6 +11,7 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 ### Updates
 * Dec 2022: Preprint of <a href="assets/files/Kim_Linzen_Smolensky_uncontrolled_lexical_exposure.pdf">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a> is out. Joint work with Tal Linzen and Paul Smolensky.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a> is out on arXiv. Joint with Phu Mon Htut, Sam Bowman, and Jackson Petty.
+* Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a> is out on arXiv. Joint work with Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi.
 * Dec 2022: Preprint of <a href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a> is out on PsyArXiv. Join work with Wentao Wang, Wai Keen Vong and Brenden Lake.
 * Fall 2022: Invited talks at <a href="https://www.gc.cuny.edu/linguistics">CUNY</a> and <a href="https://flann-discord.github.io/">FlaNN</a>.
 * I will be visiting Google part-time starting this summer! 😎

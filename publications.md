@@ -13,6 +13,8 @@ permalink: /publications/
 
 <b>Najoung Kim</b>, Phu Mon Htut, Samuel R. Bowman, and Jackson Petty. <a target="_blank" href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. arXiv.
 
+<b>Najoung Kim</b>, Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi. <a target="_blank" href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a>. arXiv.
+
 Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="_blank" href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a>. PsyArXiv.
 
 ### 2021
