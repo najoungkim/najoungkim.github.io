@@ -16,11 +16,11 @@
 title: Najoung Kim
 email: firstname dot lastname at nyu dot edu
 description: >- # this means to ignore newlines until "baseurl:"
- NYU Center for Data Science
+ BU Linguistics / CS
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  najoungkim
-logo: "/assets/img/new_pic.jpg"
+logo: "/assets/img/2022_pic.png"
 linkedin: "/assets/img/linked.png"
 twitter: "/assets/img/twitter.png"
 cookie: "/assets/img/cookie.png"

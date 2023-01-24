@@ -3,12 +3,13 @@ layout: default
 title: Home
 ---
 
-I'm a Faculty Fellow at the Center for Data Science at New York University and a soon-to-be Assistant Professor at the Department of Linguistics at Boston University. I was a PhD student in the Cognitive Science department at Johns Hopkins University, advised by Dr. <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> and Dr. <a href="http://sites.krieger.jhu.edu/rawlins/">Kyle Rawlins</a>. My interests, broadly, are meaning and generalization in human and machine learners. I use computational and experimental linguistic methodologies to explore these areas. Please refer to the <a href="/publications">Publications</a> section to find out more.
+I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of Linguistics</a> and an Affiliated Faculty at the <a href="https://www.bu.edu/cs/">Department of Computer Science</a> at Boston University. Previously, I was a Faculty Fellow at the <a href="https://cds.nyu.edu/">Center for Data Science</a> at New York University. Even before that, I was a PhD student in the <a href="https://cogsci.jhu.edu/">Department of Cognitive Science</a> at Johns Hopkins University, advised by Dr. <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> and Dr. <a href="http://sites.krieger.jhu.edu/rawlins/">Kyle Rawlins</a>. My interests, broadly, are meaning and generalization in human and machine learners. I use computational and experimental linguistic methodologies to explore these areas. Please refer to the <a href="/publications">Publications</a> section to find out more.
 
 I have a new "<a href="/students">For students</a>" section for current and prospective students!
 
 * * *
 ### Updates
+* Jan 2023: Started new job at BU!
 * Dec 2022: Preprint of <a href="assets/files/Kim_Linzen_Smolensky_uncontrolled_lexical_exposure.pdf">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a> is out. Joint work with Tal Linzen and Paul Smolensky.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a> is out on arXiv. Joint with Phu Mon Htut, Sam Bowman, and Jackson Petty.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a> is out on arXiv. Joint work with Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi.
@@ -32,13 +33,11 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 ### Education / Professional experience
 <dl>
 <dt>Current: </dt>
-<dd>Faculty Fellow, <a href="http://cds.nyu.edu/">Center for Data Science</a>, New York University</dd>
-<br>
-<dt>2022--2023</dt>
-<dd>Visiting Researcher, <a href="https://ai.google/">Google</a></dd>
-<br>
-<dt>Spring 2023- </dt>
 <dd>Assistant Professor, <a href="http://ling.bu.edu/">Dept. of Linguistics</a>, Boston University</dd>
+<dd>Visiting Faculty Researcher, <a href="https://ai.google/">Google</a></dd>
+<br>
+<dt>2021&#8211;2022: </dt>
+<dd>Faculty Fellow, <a href="http://cds.nyu.edu/">Center for Data Science</a>, New York University</dd>
 <br>
 <dt>2021 </dt>
 <dd>Ph.D., <a href="http://cogsci.jhu.edu/">Dept. of Cognitive Science</a>, Johns Hopkins University</dd>
