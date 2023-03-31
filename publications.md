@@ -8,14 +8,19 @@ permalink: /publications/
 
 <br>
 
-### In progress
-<b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="assets/files/Kim_Linzen_Smolensky_uncontrolled_lexical_exposure.pdf">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
+### Preprints
+
+<b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
 
 <b>Najoung Kim</b>, Phu Mon Htut, Samuel R. Bowman, and Jackson Petty. <a target="_blank" href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. arXiv.
 
 <b>Najoung Kim</b>, Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi. <a target="_blank" href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a>. arXiv.
 
 Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="_blank" href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a>. PsyArXiv.
+
+Seyed Mehran Kazemi, <b>Najoung Kim</b>, Deepti Bhatia, Xin Xu, and Deepak Ramachandran.  <a target="_blank" href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. arXiv.
+
+Jason Wei, <b>Najoung Kim</b>, Yi Tay, and Quoc V. Le.  <a target="_blank" href="https://arxiv.org/abs/2211.02011">Inverse scaling can become U-shaped.</a> arXiv.
 
 ### 2021
 <b>Najoung Kim</b>. <a target="_blank" href="https://jscholarship.library.jhu.edu/handle/1774.2/66745">Compositional Linguistic Generalization in Artificial Neural Networks</a>. PhD Dissertation, Johns Hopkins University.
