@@ -9,8 +9,10 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 
 * * *
 ### Updates
+* Upcoming/recent invited talks: Harvard (4/7), Colgate (3/21) 
 * Preprints of works done at Google on <a href="https://arxiv.org/abs/2212.13894">LLM reasoning</a> and <a href="https://arxiv.org/abs/2211.02011">inverse scaling</a> are on arXiv.
 * Inverse Scaling Prize <a href="https://github.com/inverse-scaling/prize">Round 2 results and data</a> are out & was featured on the GPT-4 report.
+* I was on <a href="https://soundcloud.com/nlp-highlights/138-compositional-generalization-in-neural-networks-with-najoung-kim">NLP Highlights Podcast</a>, hosted by Allen Institute for AI!
 * Jan 2023: Started new job at BU! Now officially affiliated with Computer Science as well.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a> is out. Joint work with Tal Linzen and Paul Smolensky.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a> is out on arXiv. Joint with Phu Mon Htut, Sam Bowman, and Jackson Petty.
