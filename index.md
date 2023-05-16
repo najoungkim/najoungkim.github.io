@@ -9,19 +9,24 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 
 * * *
 ### Updates
-* Upcoming/recent invited talks: Harvard (4/7), Colgate (3/21) 
-* Preprints of works done at Google on <a href="https://arxiv.org/abs/2212.13894">LLM reasoning</a> and <a href="https://arxiv.org/abs/2211.02011">inverse scaling</a> are on arXiv.
-* Inverse Scaling Prize <a href="https://github.com/inverse-scaling/prize">Round 2 results and data</a> are out & was featured on the GPT-4 report.
-* I was on <a href="https://soundcloud.com/nlp-highlights/138-compositional-generalization-in-neural-networks-with-najoung-kim">NLP Highlights Podcast</a>, hosted by Allen Institute for AI!
+* May 2023: The following papers were accepted to ACL 2023.
+	* <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Najoung Kim,\* Phu Mon Htut,\* Sam Bowman, and Jackson Petty
+	* <a href="https://arxiv.org/abs/2212.10003">Entity Tracking in Language Models</a>. Najoung Kim* and Sebastian Schuster*
+	* <a href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, and Deepak Ramachandran
+	* <a href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a> (Findings). Najoung Kim, Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi
+* Spring 2023: Invited talks at Harvard (4/7) and Colgate (3/21).
+* Mar 2023: Preprints of works done at Google on <a href="https://arxiv.org/abs/2212.13894">LLM reasoning</a> and <a href="https://arxiv.org/abs/2211.02011">inverse scaling</a> are on arXiv.
+* Mar 2023: Inverse Scaling Prize <a href="https://github.com/inverse-scaling/prize">Round 2 results and data</a> are out & was featured on the GPT-4 report.
+* Feb 2023: I was on <a href="https://soundcloud.com/nlp-highlights/138-compositional-generalization-in-neural-networks-with-najoung-kim">NLP Highlights Podcast</a>, hosted by Allen Institute for AI!
 * Jan 2023: Started new job at BU! Now officially affiliated with Computer Science as well.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a> is out. Joint work with Tal Linzen and Paul Smolensky.
+
+
+<!--
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a> is out on arXiv. Joint with Phu Mon Htut, Sam Bowman, and Jackson Petty.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a> is out on arXiv. Joint work with Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi.
 * Dec 2022: Preprint of <a href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a> is out on PsyArXiv. Join work with Wentao Wang, Wai Keen Vong and Brenden Lake.
 * Fall 2022: Invited talks at <a href="https://www.gc.cuny.edu/linguistics">CUNY</a> and <a href="https://flann-discord.github.io/">FlaNN</a>.
-
-
-<!--
 * I will be visiting Google part-time starting this summer! 😎
 * Feb 2022: My <a href="https://jscholarship.library.jhu.edu/handle/1774.2/66745">dissertation</a> is now online.
 * Spring 2022: Invited talks at <a href="https://gdr-lift.loria.fr/monthy-online-ilfc-seminar/">Seminar on the interactions between formal and computational linguistics (ILFC)</a>, <a href="https://ling.bu.edu/spring-2022-colloquium-series/">BU Linguistics Colloqiuim Series</a>, <a href="https://complang.mit.edu">MIT CompLang</a>, Google, and UChicago.	
