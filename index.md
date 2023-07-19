@@ -9,6 +9,10 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 
 * * *
 ### Updates
+* July 2023: <a href="https://arxiv.org/abs/2212.10003">Entity Tracking in Language Models</a> received the <a href="https://2023.aclweb.org/program/best_papers/">Area Chair Award</a> on the Interpretability & Analysis track at ACL!
+* July 2023: <a href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a> is on arXiv.
+* June 2023: <a href="https://arxiv.org/abs/2306.09479">Writeup of the Inverse Scaling Competition</a> and <a href="https://arxiv.org/abs/2306.07934">new Google work on defeasible reasoning</a> are on arXiv.
+* May 2023: Preprint of <a href="https://arxiv.org/abs/2305.15269">Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples</a> is now on arXiv.
 * May 2023: The following papers were accepted to ACL 2023.
 	* <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Najoung Kim,\* Phu Mon Htut,\* Sam Bowman, and Jackson Petty
 	* <a href="https://arxiv.org/abs/2212.10003">Entity Tracking in Language Models</a>. Najoung Kim* and Sebastian Schuster*
@@ -17,12 +21,12 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 * Spring 2023: Invited talks at Harvard (4/7) and Colgate (3/21).
 * Mar 2023: Preprints of works done at Google on <a href="https://arxiv.org/abs/2212.13894">LLM reasoning</a> and <a href="https://arxiv.org/abs/2211.02011">inverse scaling</a> are on arXiv.
 * Mar 2023: Inverse Scaling Prize <a href="https://github.com/inverse-scaling/prize">Round 2 results and data</a> are out & was featured on the GPT-4 report.
-* Feb 2023: I was on <a href="https://soundcloud.com/nlp-highlights/138-compositional-generalization-in-neural-networks-with-najoung-kim">NLP Highlights Podcast</a>, hosted by Allen Institute for AI!
-* Jan 2023: Started new job at BU! Now officially affiliated with Computer Science as well.
-* Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a> is out. Joint work with Tal Linzen and Paul Smolensky.
 
 
 <!--
+* Feb 2023: I was on <a href="https://soundcloud.com/nlp-highlights/138-compositional-generalization-in-neural-networks-with-najoung-kim">NLP Highlights Podcast</a>, hosted by Allen Institute for AI!
+* Jan 2023: Started new job at BU! Now officially affiliated with Computer Science as well.	
+* Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a> is out. Joint work with Tal Linzen and Paul Smolensky.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a> is out on arXiv. Joint with Phu Mon Htut, Sam Bowman, and Jackson Petty.
 * Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a> is out on arXiv. Joint work with Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi.
 * Dec 2022: Preprint of <a href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a> is out on PsyArXiv. Join work with Wentao Wang, Wai Keen Vong and Brenden Lake.

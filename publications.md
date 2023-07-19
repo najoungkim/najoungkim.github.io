@@ -14,10 +14,18 @@ permalink: /publications/
 
 Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="_blank" href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a>. PsyArXiv.
 
-Jason Wei, <b>Najoung Kim</b>, Yi Tay, and Quoc V. Le.  <a target="_blank" href="https://arxiv.org/abs/2211.02011">Inverse scaling can become U-shaped.</a> arXiv.
+Jason Wei,\* <b>Najoung Kim</b>,\* Yi Tay, and Quoc V. Le.  <a target="_blank" href="https://arxiv.org/abs/2211.02011">Inverse scaling can become U-shaped.</a> arXiv. (\*Equal contribution)
 
+Abulhair Saparov, Richard Yuanzhe Pang, Vishakh Padmakumar, Nitish Joshi, Seyed Mehran Kazemi, <b>Najoung Kim</b>,\* and He He.\* <a target="_blank" href="https://arxiv.org/abs/2305.15269">Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples</a>. arXiv. (\*Equal contribution)
+
+Mehran Kazemi, Quan Yuan, Deepti Bhatia, <b>Najoung Kim</b>, Xin Xu, Vaiva Imbrasaite, and Deepak Ramachandran.<a target="_blank" href="https://arxiv.org/abs/2306.07934">BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory Information</a>. arXiv.
+
+Ian R. McKenzie, Alexander Lyzhov, Michael Pieler, Alicia Parrish, Aaron Mueller, Ameya Prabhu, Euan McLean, Aaron Kirtland, Alexis Ross, Alisa Liu, Andrew Gritsevskiy, Daniel Wurgaft, Derik Kauffman, Gabriel Recchia, Jiacheng Liu, Joe Cavanagh, Max Weiss, Sicong Huang, The Floating Droid, Tom Tseng, Tomasz Korbak, Xudong Shen, Yuhui Zhang, Zhengping Zhou, <b>Najoung Kim</b>, Samuel R. Bowman, and Ethan Perez. <a target="_blank" href="https://arxiv.org/abs/2306.09479">Inverse Scaling: When Bigger Isn't Better</a>. arXiv.
+
+Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, <b>Najoung Kim</b>, Jacob Andreas, and Yoon Kim.<a target="_blank" href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>. arXiv.
 
 ### 2023
+
 <b>Najoung Kim</b>,\* Phu Mon Htut,\* Samuel R. Bowman, and Jackson Petty. <a target="_blank" href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
 
 <b>Najoung Kim</b>\* and Sebastian Schuster.\* <a href="https://arxiv.org/abs/2212.10003">Entity Tracking in Language Models</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
