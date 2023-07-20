@@ -9,14 +9,14 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 
 * * *
 ### Updates
-* July 2023: <a href="https://arxiv.org/abs/2212.10003">Entity Tracking in Language Models</a> received the <a href="https://2023.aclweb.org/program/best_papers/">Area Chair Award</a> on the Interpretability & Analysis track at ACL!
+* July 2023: <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a> received the <a href="https://2023.aclweb.org/program/best_papers/">Area Chair Award</a> on the Interpretability & Analysis track at ACL!
 * July 2023: <a href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a> is on arXiv.
 * June 2023: <a href="https://arxiv.org/abs/2306.09479">Writeup of the Inverse Scaling Competition</a> and <a href="https://arxiv.org/abs/2306.07934">new Google work on defeasible reasoning</a> are on arXiv.
 * June 2023: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13305">Finding Structure in One Child's Linguistic Experience</a> has been published in Cognitive Science.
 * May 2023: Preprint of <a href="https://arxiv.org/abs/2305.15269">Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples</a> is now on arXiv.
 * May 2023: The following papers were accepted to ACL 2023.
 	* <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Najoung Kim,\* Phu Mon Htut,\* Sam Bowman, and Jackson Petty
-	* <a href="https://arxiv.org/abs/2212.10003">Entity Tracking in Language Models</a>. Najoung Kim* and Sebastian Schuster*
+	* <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a>. Najoung Kim* and Sebastian Schuster*
 	* <a href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, and Deepak Ramachandran
 	* <a href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a> (Findings). Najoung Kim, Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi
 * Spring 2023: Invited talks at Harvard (4/7) and Colgate (3/21).

@@ -27,7 +27,7 @@ Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="
 
 <b>Najoung Kim</b>,\* Phu Mon Htut,\* Samuel R. Bowman, and Jackson Petty. <a target="_blank" href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
 
-<b>Najoung Kim</b>\* and Sebastian Schuster.\* <a href="https://arxiv.org/abs/2212.10003">Entity Tracking in Language Models</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
+<b>Najoung Kim</b>\* and Sebastian Schuster.\* <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
 
 Seyed Mehran Kazemi, <b>Najoung Kim</b>, Deepti Bhatia, Xin Xu, and Deepak Ramachandran.  <a target="_blank" href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL).
 
