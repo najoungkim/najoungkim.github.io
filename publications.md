@@ -12,26 +12,33 @@ permalink: /publications/
 
 <b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
 
-Jason Wei,\* <b>Najoung Kim</b>,\* Yi Tay, and Quoc V. Le.  <a target="_blank" href="https://arxiv.org/abs/2211.02011">Inverse scaling can become U-shaped.</a> arXiv. (\*Equal contribution)
-
-Abulhair Saparov, Richard Yuanzhe Pang, Vishakh Padmakumar, Nitish Joshi, Seyed Mehran Kazemi, <b>Najoung Kim</b>,\* and He He.\* <a target="_blank" href="https://arxiv.org/abs/2305.15269">Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples</a>. arXiv. (\*Equal contribution)
-
-Mehran Kazemi, Quan Yuan, Deepti Bhatia, <b>Najoung Kim</b>, Xin Xu, Vaiva Imbrasaite, and Deepak Ramachandran.<a target="_blank" href="https://arxiv.org/abs/2306.07934">BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory Information</a>. arXiv.
-
-Ian R. McKenzie, Alexander Lyzhov, Michael Pieler, Alicia Parrish, Aaron Mueller, Ameya Prabhu, Euan McLean, Aaron Kirtland, Alexis Ross, Alisa Liu, Andrew Gritsevskiy, Daniel Wurgaft, Derik Kauffman, Gabriel Recchia, Jiacheng Liu, Joe Cavanagh, Max Weiss, Sicong Huang, The Floating Droid, Tom Tseng, Tomasz Korbak, Xudong Shen, Yuhui Zhang, Zhengping Zhou, <b>Najoung Kim</b>, Samuel R. Bowman, and Ethan Perez. <a target="_blank" href="https://arxiv.org/abs/2306.09479">Inverse Scaling: When Bigger Isn't Better</a>. arXiv.
-
 Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, <b>Najoung Kim</b>, Jacob Andreas, and Yoon Kim.<a target="_blank" href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>. arXiv.
 
+Nitish Joshi, Javier Rando, Abulhair Saparov, <b>Najoung Kim</b>, and He He. <a target="_blank" href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a>. arXiv.
+
 ### 2023
+
+Kanishka Misra and <b>Najoung Kim</b>. <a href="https://kanishka.website/papers/bucld48.pdf">Abstraction via exemplars? A representational case study on lexical category inference in BERT</a>. The 47th Boston University Conference on Language Development (BUCLD).
+
+Bingzhi Li, Lucia Donatelli, Alexander Koller, Tal Linzen, Yuekun Yao, and <b>Najoung Kim</b>. <a href="https://arxiv.org/abs/2310.15040">SLOG: A Structural Generalization Benchmark for Semantic Parsing</a>. The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+Jason Wei,\* <b>Najoung Kim</b>,\* Yi Tay, and Quoc V. Le.  <a target="_blank" href="https://arxiv.org/abs/2211.02011">Inverse scaling can become U-shaped.</a> The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP). (\*Equal contribution)
+
+Abulhair Saparov, Richard Yuanzhe Pang, Vishakh Padmakumar, Nitish Joshi, Seyed Mehran Kazemi, <b>Najoung Kim</b>,\* and He He.\* <a target="_blank" href="https://arxiv.org/abs/2305.15269">Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples</a>. The Conference on Neural Information Processing Systems (NeurIPS). (\*Equal contribution)
+
+Mehran Kazemi, Quan Yuan, Deepti Bhatia, <b>Najoung Kim</b>, Xin Xu, Vaiva Imbrasaite, and Deepak Ramachandran. <a target="_blank" href="https://arxiv.org/abs/2306.07934">BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory Information</a>. The Conference on Neural Information Processing Systems (NeurIPS), Datasets and Benchmark Track.
+
+Ian R. McKenzie, Alexander Lyzhov, Michael Pieler, Alicia Parrish, Aaron Mueller, Ameya Prabhu, Euan McLean, Aaron Kirtland, Alexis Ross, Alisa Liu, Andrew Gritsevskiy, Daniel Wurgaft, Derik Kauffman, Gabriel Recchia, Jiacheng Liu, Joe Cavanagh, Max Weiss, Sicong Huang, The Floating Droid, Tom Tseng, Tomasz Korbak, Xudong Shen, Yuhui Zhang, Zhengping Zhou, <b>Najoung Kim</b>, Samuel R. Bowman, and Ethan Perez. <a target="_blank" href="https://arxiv.org/abs/2306.09479">Inverse Scaling: When Bigger Isn't Better</a>. Transactions on Machine Learning Research (TMLR). <b>Featured certification</b>
+
 Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="_blank" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13305">Finding Structure in One Child's Linguistic Experience</a>. Cognitive Science.
 
-<b>Najoung Kim</b>,\* Phu Mon Htut,\* Samuel R. Bowman, and Jackson Petty. <a target="_blank" href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
+<b>Najoung Kim</b>,\* Phu Mon Htut,\* Samuel R. Bowman, and Jackson Petty. <a target="_blank" href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
 
-<b>Najoung Kim</b>\* and Sebastian Schuster.\* <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
+<b>Najoung Kim</b>\* and Sebastian Schuster.\* <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a>. Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution) <b>Area Chair Award</b>
 
-Seyed Mehran Kazemi, <b>Najoung Kim</b>, Deepti Bhatia, Xin Xu, and Deepak Ramachandran.  <a target="_blank" href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. Accepted to the Annual Conference of the Association for Computational Linguistics (ACL).
+Seyed Mehran Kazemi, <b>Najoung Kim</b>, Deepti Bhatia, Xin Xu, and Deepak Ramachandran.  <a target="_blank" href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. Annual Conference of the Association for Computational Linguistics (ACL).
 
-<b>Najoung Kim</b>, Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi. <a target="_blank" href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a>. Accepted to Findings of the Annual Conference of the Association for Computational Linguistics (ACL).
+<b>Najoung Kim</b>, Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi. <a target="_blank" href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a>. Findings of the Annual Conference of the Association for Computational Linguistics (ACL).
 
 
 ### 2021
