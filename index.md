@@ -9,6 +9,7 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 
 * * *
 ### Updates
+* Upcoming invited talks at: Brown (2/13), UT Austin (2/29), Scale-LLM workshop (3/21), MIT (TBD), Stanford (6/6)
 * Nov 2023: I was appointed as a <a href="https://www.bu.edu/cds-faculty/2023/11/11/faculty-fellows-2023/">CDS Faculty Fellow</a> at BU! 2nd CDS Faculty Fellow position I've held :)
 * Oct 2023: Presented <a href="https://kanishka.website/papers/bucld48.pdf">Abstraction via exemplars?</a> at <a href="https://www.bu.edu/bucld/">BUCLD</a>.
 * Oct 2023: Invited talks at <a href="https://nlp.cis.upenn.edu/clunch.html">Penn NLP Seminar</a> on entity tracking and <a href="https://yalefds.swoogo.com/ml/4301364">Yale/Google ML Workshop</a> on LLM reasoning.
