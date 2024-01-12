@@ -22,4 +22,12 @@ If you've worked with me in some capacity I'd be very happy to write you a recom
 
 Apologies in advance that I will have to decline requests that don't follow the above instructions, and thanks for understanding!
 
+* * *
 
+### Research opportunities for BU students
+
+**Undergrads**: I typically ask undergraduate students to have taken & performed well in at least one of my advanced computational courses (i.e., non-intro) before discussing research opportunities, unless you already have prior research experiences. Then, feel free to reach out to me to either: (1) pitch a project that is UROP-scoped that aligns with my research interests, or (2) ask if there are RA opportunities (but RA opps are sparse).
+
+**MS students**: I am not available to supervise MS theses until the end of S24. I am still happy to discuss collaborations, IF the project you're interested in is directly in line with my research interests.
+
+**PhD students who are not my advisees**: Reach out to me and we can discuss more!
