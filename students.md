@@ -6,9 +6,17 @@ permalink: /students/
 
 ### Grad school admissions
 
-Thanks for your interest in working with me! This cycle I will be recruiting students through the Linguistics Department at BU. If you mention my name in the application, I will read your application. Apply [here](https://ling.bu.edu/).
+Thanks for your interest in working with me! I am broadly recruiting PhD students through Linguistics, Computer Science and the Center for Data Science. If you mention my name in the application in any of these departments, I will read your application. 
 
-For students who are primarily interested in NLP: unless you have additional interest in Linguistics and/or broader Cognitive Science, the Linguistics program might not be the best fit for you. The CS or the Data Science programs might be better, but I will NOT be recruiting directly through these programs this year at BU. But if you are admitted through these programs, I'd be happy to chat about collaborating/mentoring (in non-advising capacities) when you're here.
+The Linguistics department will be a better fit for you if you are interested in scientific questions about language and/or broader Cognitive Science. If you are primarily interested in NLP, I recommend applying to Computer Science or the Center for Data Science, depending on your curricular interests and maybe fit with other faculty in the respective departments.
+
+Application links:
+
+[Linguistics](https://ling.bu.edu/)<br>
+[Computer Science](https://www.bu.edu/cs/phd-program/phd/)<br>
+[Center for Data Science](https://www.bu.edu/cds-faculty/programs-admissions/)
+
+
 
 * * *
 
@@ -28,6 +36,6 @@ Apologies in advance that I will have to decline requests that don't follow the 
 
 **Undergrads**: I typically ask undergraduate students to have taken & performed well in at least one of my advanced computational courses (i.e., non-intro) before discussing research opportunities, unless you already have prior research experiences. Then, feel free to reach out to me to either: (1) pitch a project that is UROP-scoped that aligns with my research interests, or (2) ask if there are RA opportunities (but RA opps are sparse).
 
-**MS students**: I am not available to supervise MS theses until the end of S24. I am still happy to discuss collaborations, but similarly to undergraduates I'll typically only agree to work with students who have taken one of my non-intro classes.
+**MS students**: I have limited availability for MS supervision. I might agree to collaborating in rare circumstances, but similarly to undergraduates I'll typically only agree to work with students who have taken one of my non-intro classes.
 
 **PhD students who are not my advisees**: Reach out to me and we can discuss more!
