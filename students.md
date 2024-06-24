@@ -34,7 +34,7 @@ Apologies in advance that I will have to decline requests that don't follow the 
 
 ### Research opportunities for BU students
 
-**Undergrads**: I typically ask undergraduate students to have taken & performed well in at least one of my advanced computational courses (i.e., non-intro) before discussing research opportunities, unless you already have prior research experiences. Then, feel free to reach out to me to either: (1) pitch a project that is UROP-scoped that aligns with my research interests, or (2) ask if there are RA opportunities (but RA opps are sparse).
+**Undergrads**: I typically ask undergraduate students to have taken & performed well in at least one of my advanced computational courses (i.e., non-intro) before discussing research opportunities, unless you already have prior research experiences. I try to agree to supervise undergraduate research very sparingly, but feel free to reach out if you do meet one of the criteria I mentioned.
 
 **MS students**: I have limited availability for MS supervision. I might agree to collaborating in rare circumstances, but similarly to undergraduates I'll typically only agree to work with students who have taken one of my non-intro classes.
 

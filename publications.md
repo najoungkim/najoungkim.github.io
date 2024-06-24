@@ -12,9 +12,19 @@ permalink: /publications/
 
 <b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
 
-Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, <b>Najoung Kim</b>, Jacob Andreas, and Yoon Kim.<a target="_blank" href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>. arXiv.
-
 Nitish Joshi, Javier Rando, Abulhair Saparov, <b>Najoung Kim</b>, and He He. <a target="_blank" href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a>. arXiv.
+
+### 2024
+
+<b>Najoung Kim</b> and Paul Smolensky. <a target="_blank" href="https://osf.io/preprints/psyarxiv/v9h8u">Structural Generalization of Modification in Adult Learners of an Artificial Language</a>. CogSci 2024.
+
+Aditya Yedetore and <b>Najoung Kim</b>. Semantic Training Signals Promote Hierarchical Syntactic Generalization in Neural Networks. NENLP 2024.
+
+Hayley Ross, Kathryn Davidson, and <b>Najoung Kim</b>. When is a fake concert still a concert? A study of adjective-noun composition in LLMs. NENLP 2024.
+
+Hayley Ross, <b>Najoung Kim</b>, and Kathryn Davidson. <a target="_blank" href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a>. ELM 3.
+
+Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, <b>Najoung Kim</b>, Jacob Andreas, and Yoon Kim. <a target="_blank" href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>. The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 
 
 ### 2023
 
