@@ -10,6 +10,11 @@ permalink: /publications/
 
 ### Preprints
 
+<b>Najoung Kim</b>,\* Sebastian Schuster,\* and Shubham Toshniwal.\* <a target="_blank" href="https://arxiv.org/abs/2405.21068">
+Code Pretraining Improves Entity Tracking Abilities of Language Models</a>. arXiv. (\*Equal contribution)
+
+Ashwin Daswani, Rohan Sawant, and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2403.12145">Syn-(QA)^2: Evaluating False Assumptions in Long-tail Questions with Synthetic QA Datasets</a>. arXiv.
+
 <b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
 
 Nitish Joshi, Javier Rando, Abulhair Saparov, <b>Najoung Kim</b>, and He He. <a target="_blank" href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a>. arXiv.

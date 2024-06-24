@@ -9,6 +9,7 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 
 * * *
 ### Updates
+* May 2024: <a href="https://arxiv.org/abs/2405.21068">Preprint on code & entity tracking</a> is out! Work with Sebastian Schuster and Shubham Toshniwal.
 * May 2024: Gave an invited talk at the <a href="https://newhorizonsinlanguagescience.github.io/">NSF New Horizons Workshop</a> on Linguistic tests as unit tests and <a href="https://www.neuromonster.org/">Mathematics Of Neuroscience and AI Convention</a> on compositional generalization in neural networks.
 * April 2024: Gave an invited talk at MIT CPL lab on using simulated learners for hypothesis generation.
 * April 2024: My students Adi Yedetore and Hayley Ross presented their work at <a href="https://nenlp.github.io/spr2024/">NENLP</a>! 
