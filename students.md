@@ -8,7 +8,10 @@ permalink: /students/
 
 Thanks for your interest in working with me! I am broadly recruiting PhD students through Linguistics, Computer Science and the Center for Data Science. If you mention my name in the application in any of these departments, I will read your application. 
 
-The Linguistics department will be a better fit for you if you are interested in scientific questions about language and/or broader Cognitive Science. If you are primarily interested in NLP, I recommend applying to Computer Science or the Center for Data Science, depending on your curricular interests and maybe fit with other faculty in the respective departments.
+The Linguistics department will be a better fit for you if you are interested in scientific questions about language and/or broader Cognitive Science. If you are primarily interested in AI, I recommend applying to Computer Science (CS) or the Center for Data Science (CDS), depending on your curricular interests and maybe fit with other faculty in the respective departments.
+
+I will also be recruiting through CS & CDS, but I am primarily interested in students who either have secondary interests in CogSci/Linguistics or students whose primary interests are in model evaluation. I typically do not work with students whose interests are machine learning/artificial intelligence more generally.
+
 
 Application links:
 

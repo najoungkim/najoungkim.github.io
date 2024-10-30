@@ -8,28 +8,36 @@ permalink: /publications/
 
 <br>
 
-### Preprints
+### Work in Progress
+
+Kanishka Misra and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2408.05086">
+Generating novel experimental hypotheses from language models: A case study on cross-dative generalization</a>. arXiv.
 
 <b>Najoung Kim</b>,\* Sebastian Schuster,\* and Shubham Toshniwal.\* <a target="_blank" href="https://arxiv.org/abs/2405.21068">
 Code Pretraining Improves Entity Tracking Abilities of Language Models</a>. arXiv. (\*Equal contribution)
 
-Ashwin Daswani, Rohan Sawant, and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2403.12145">Syn-(QA)^2: Evaluating False Assumptions in Long-tail Questions with Synthetic QA Datasets</a>. arXiv.
-
-<b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
-
-Nitish Joshi, Javier Rando, Abulhair Saparov, <b>Najoung Kim</b>, and He He. <a target="_blank" href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a>. arXiv.
 
 ### 2024
 
-<b>Najoung Kim</b> and Paul Smolensky. <a target="_blank" href="https://osf.io/preprints/psyarxiv/v9h8u">Structural Generalization of Modification in Adult Learners of an Artificial Language</a>. CogSci 2024.
+Aditya Yedetore and <b>Najoung Kim</b>. <a href="https://adityayedetore.github.io/assets/pdf/emnlp_2024_semantic_cues_to_hierarchy.pdf">Semantic Training Signals Promote Hierarchical Syntactic Generalization in Neural Networks</a>. EMNLP.
 
-Aditya Yedetore and <b>Najoung Kim</b>. Semantic Training Signals Promote Hierarchical Syntactic Generalization in Neural Networks. NENLP 2024.
+Nitish Joshi, Javier Rando, Abulhair Saparov, <b>Najoung Kim</b>, and He He. <a target="_blank" href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a>. EMNLP.
 
-Hayley Ross, Kathryn Davidson, and <b>Najoung Kim</b>. When is a fake concert still a concert? A study of adjective-noun composition in LLMs. NENLP 2024.
+Hayley Ross, Kathryn Davidson, and <b>Najoung Kim</b>. <a href="https://arxiv.org/abs/2410.17482">Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don't mimic the full human distribution</a>. GenBench @ EMNLP.
+
+<b>Najoung Kim</b> and Paul Smolensky. <a target="_blank" href="https://osf.io/preprints/psyarxiv/v9h8u">Structural Generalization of Modification in Adult Learners of an Artificial Language</a>. CogSci.
 
 Hayley Ross, <b>Najoung Kim</b>, and Kathryn Davidson. <a target="_blank" href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a>. ELM 3.
 
-Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, <b>Najoung Kim</b>, Jacob Andreas, and Yoon Kim. <a target="_blank" href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>. The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL). 
+Katherine M. Collins, <b>Najoung Kim</b>, Yonatan Bitton, Verena Rieser, Shayegan Omidshafiei, Yushi Hu, Sherol Chen, Senjuti Dutta, Minsuk Chang, Kimin Lee, Youwei Liang, Georgina Evans, Sahil Singla, Gang Li, Adrian Weller, Junfeng He, Deepak Ramachandran, and Krishnamurthy Dj Dvijotham. <a target="_blank" href="https://arxiv.org/abs/2406.16807">Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation</a>. AIES.
+
+Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, <b>Najoung Kim</b>, Jacob Andreas, and Yoon Kim. <a target="_blank" href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a>. NAACL. 
+
+Ashwin Daswani, Rohan Sawant, and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2403.12145">Syn-(QA)^2: Evaluating False Assumptions in Long-tail Questions with Synthetic QA Datasets</a>. arXiv.
+
+### 2022
+
+<b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
 
 ### 2023
 
