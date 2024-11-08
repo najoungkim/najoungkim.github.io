@@ -9,7 +9,8 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 
 * * *
 ### Updates
-* Forthcoming: I'll be giving a keynote talk at Genbench @ EMNLP & UMass Amherst!
+* Forthcoming: I'll be giving a keynote talk at Genbench @ EMNLP!
+* Nov 2024: Gave an invited talk at <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/index.html">UMass Amherst NLP</a> on entity tracking. 
 * Oct 2024: Gave an invited talk at <a href="https://sites.harvard.edu/langcog/">Harvard LangCog</a> on neural network models as hypothesis generators.
 * Oct 2024: <a href="https://arxiv.org/abs/2410.17482">Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don't mimic the full human distribution</a> accepted to GenBench @ EMNLP (with Hayley Ross and Kate Davidson)!
 * Sep 2024: Two papers accepted to EMNLP!

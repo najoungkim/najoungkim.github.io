@@ -35,10 +35,6 @@ Zhaofeng Wu, Linlu Qiu, Alexis Ross, Ekin Akyürek, Boyuan Chen, Bailin Wang, <b
 
 Ashwin Daswani, Rohan Sawant, and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2403.12145">Syn-(QA)^2: Evaluating False Assumptions in Long-tail Questions with Synthetic QA Datasets</a>. arXiv.
 
-### 2022
-
-<b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
-
 ### 2023
 
 Kanishka Misra and <b>Najoung Kim</b>. <a href="https://kanishka.website/papers/bucld48.pdf">Abstraction via exemplars? A representational case study on lexical category inference in BERT</a>. The 47th Boston University Conference on Language Development (BUCLD).
@@ -62,6 +58,11 @@ Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="
 Seyed Mehran Kazemi, <b>Najoung Kim</b>, Deepti Bhatia, Xin Xu, and Deepak Ramachandran.  <a target="_blank" href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. Annual Conference of the Association for Computational Linguistics (ACL).
 
 <b>Najoung Kim</b>, Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi. <a target="_blank" href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a>. Findings of the Annual Conference of the Association for Computational Linguistics (ACL).
+
+
+### 2022
+
+<b>Najoung Kim</b>, Tal Linzen, and Paul Smolensky. <a target="_blank" href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a>. arXiv.
 
 
 ### 2021
