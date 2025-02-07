@@ -8,9 +8,9 @@ permalink: /students/
 
 Thanks for your interest in working with me! I am open to recruiting a postdoctoral fellow and/or a PhD student to join my group. More details below 👇
 
-**Postdoctoral fellows:** I may have funding to host a postdoctoral fellow with flexible starting dates of Spring 2025 and Fall 2025. There is no topic or project restriction to this position, but I hope to recruit someone only if we have a strong research fit; please email me if you are interested. More generally, I am also open to writing a grant/fellowship application together, but please reach out to me earlier (at least a year before the desired start date) if you'd like to pursue this option. 
+**Postdoctoral fellows:** I may have funding to host a postdoctoral fellow with flexible starting dates.  here is no topic or project restriction to this position, but I hope to recruit someone only if we have a strong research fit; please email me if you are interested. More generally, I am also open to writing a grant/fellowship application together, but please reach out to me earlier (at least a year before the desired start date) if you'd like to pursue this option. 
 
-**PhD students:** I am broadly recruiting PhD students through Linguistics, Computer Science and the Center for Data Science. If you mention my name in the application in any of these departments, I will read your application. 
+**PhD students:** I am broadly recruiting PhD students through Linguistics, Computer Science and the Center for Data Science every year unless there are special circumstances. If you mention my name in the application in any of these departments, I will read your application. 
 
 The Linguistics department will be a better fit for you if you are interested in scientific questions about language and/or broader Cognitive Science. If you are primarily interested in AI, I recommend applying to Computer Science (CS) or the Center for Computing & Data Sciences (CDS), depending on your curricular interests and maybe fit with other faculty in the respective departments.
 

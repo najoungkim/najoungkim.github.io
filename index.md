@@ -3,12 +3,13 @@ layout: default
 title: Home
 ---
 
-I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of Linguistics</a> and an Affiliated Faculty at the <a href="https://www.bu.edu/cs/">Department of Computer Science</a> at Boston University. I am also a Visiting Faculty Researcher at Google. Previously, I was a Faculty Fellow at the <a href="https://cds.nyu.edu/">Center for Data Science</a> at New York University. Even before that, I was a PhD student in the <a href="https://cogsci.jhu.edu/">Department of Cognitive Science</a> at Johns Hopkins University, advised by Dr. <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> and Dr. <a href="http://sites.krieger.jhu.edu/rawlins/">Kyle Rawlins</a>. My interests, broadly, are meaning and generalization in human and machine learners. I use computational and experimental linguistic methodologies to explore these areas. Please refer to the <a href="/publications">Publications</a> section to find out more.
+I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of Linguistics</a> and an Affiliated Faculty at the <a href="https://www.bu.edu/cs/">Department of Computer Science</a> at Boston University. I was a Visiting Faculty Researcher at Google DeepMind until very recently. Before that, I was a Faculty Fellow at the <a href="https://cds.nyu.edu/">Center for Data Science</a> at New York University and a PhD student in the <a href="https://cogsci.jhu.edu/">Department of Cognitive Science</a> at Johns Hopkins University, advised by Dr. <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> and Dr. <a href="http://sites.krieger.jhu.edu/rawlins/">Kyle Rawlins</a>. My interests, broadly, are meaning and generalization in human and machine learners. I use computational and experimental linguistic methodologies to explore these areas. Please refer to the <a href="/publications">Publications</a> section to find out more.
 
 I have a new "<a href="/students">For students</a>" section for current and prospective students!
 
 * * *
 ### Updates
+* Jan 2025: <a href="https://openreview.net/forum?id=9cQB1Hwrtw">Transformers Struggle to Learn to Search Without In-context Exploration</a> accepted to ICLR.
 * Nov 2024: We got a best paper award at Genbench! For <a href="https://arxiv.org/abs/2410.17482">Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don't mimic the full human distribution</a> (with Hayley Ross and Kate Davidson).
 * Nov 2024: I gave a keynote talk at Genbench @ EMNLP!
 * Nov 2024: Gave an invited talk at <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/index.html">UMass Amherst NLP</a> on entity tracking. 
@@ -18,14 +19,12 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 	* <a href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a> (with Nitish Joshi, Javier Rando, Abulhair Saparov, and He He)
 * Sep 2024: Gave an invited talk at the <a href="https://simons.berkeley.edu/workshops/emerging-generalization-settings/schedule">Emerging Generalization Settings Workshop</a> at the Simons Institute on human and machine inductive biases for compositional linguistic generalization.
 * Aug 2024: <a href="https://arxiv.org/abs/2408.05086">Preprint on neural network learners as hypothesis generators</a> is out! Work with Kanishka Misra.
-* June 2024: Hayley Ross presented <a href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a> at ELM 3!
+<!--* * June 2024: Hayley Ross presented <a href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a> at ELM 3!
 * May 2024: <a href="https://arxiv.org/abs/2405.21068">Preprint on code & entity tracking</a> is out! Work with Sebastian Schuster and Shubham Toshniwal.
 * May 2024: Gave an invited talk at the <a href="https://newhorizonsinlanguagescience.github.io/">NSF New Horizons Workshop</a> on Linguistic tests as unit tests and <a href="https://www.neuromonster.org/">Mathematics Of Neuroscience and AI Convention</a> on compositional generalization in neural networks.
-* April 2024: Gave an invited talk at MIT CPL lab on using simulated learners for hypothesis generation.
+April 2024: Gave an invited talk at MIT CPL lab on using simulated learners for hypothesis generation.
 * April 2024: My students Adi Yedetore and Hayley Ross presented their work at <a href="https://nenlp.github.io/spr2024/">NENLP</a>! 
 * March 2024: Gave an invited talk at <a href="https://events.brown.edu/linguistics/event/278028-linglanglatelunch-najoung-kim-boston-university">Brown Linguistics</a> on using simulated learners for hypothesis generation and a keynote talk at Scale-LLM Workshop on inverse scaling.
-
-<!--
 * Feb 2024: Gave an invited talk at <a href="https://sites.google.com/utexas.edu/sxsw/schedule">UT Austin SXSW</a> on entity tracking in LMs.
 * Feb 2024: Abstract on context-dependent privative inferences about A+Ns accepted to <a href="https://www.elm-conference.net/archive/elm-3-2024/">ELM 3</a> (Work with Hayley Ross and Kate Davidson).
 * Nov 2023: I was appointed as a <a href="https://www.bu.edu/cds-faculty/2023/11/11/faculty-fellows-2023/">CDS Faculty Fellow</a> at BU! 2nd CDS Faculty Fellow position I've held :)
