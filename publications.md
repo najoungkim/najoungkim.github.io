@@ -17,17 +17,22 @@ Generating novel experimental hypotheses from language models: A case study on c
 Code Pretraining Improves Entity Tracking Abilities of Language Models</a>. arXiv. (\*Equal contribution)
 
 
+### 2025
+Abulhair Saparov, Srushti Pawar, Shreyas Pimpalgaonkar, Nitish Joshi, Richard Yuanzhe
+Pang, Vishakh Padmakumar, Seyed Mehran Kazemi, <b>Najoung Kim</b>,\* and He He.\* <a href="https://openreview.net/forum?id=9cQB1Hwrtw">Transformers Struggle to Learn to Search Without In-context Exploration</a>. ICLR. (\*Equal contribution)
+
+Hayley Ross, <b>Najoung Kim</b>, and Kathryn Davidson. <a target="_blank" href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a>. ELM 3.
+
+
 ### 2024
 
 Aditya Yedetore and <b>Najoung Kim</b>. <a href="https://adityayedetore.github.io/assets/pdf/emnlp_2024_semantic_cues_to_hierarchy.pdf">Semantic Training Signals Promote Hierarchical Syntactic Generalization in Neural Networks</a>. EMNLP.
 
 Nitish Joshi, Javier Rando, Abulhair Saparov, <b>Najoung Kim</b>, and He He. <a target="_blank" href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a>. EMNLP.
 
-Hayley Ross, Kathryn Davidson, and <b>Najoung Kim</b>. <a href="https://arxiv.org/abs/2410.17482">Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don't mimic the full human distribution</a>. GenBench @ EMNLP.
+Hayley Ross, Kathryn Davidson, and <b>Najoung Kim</b>. <a href="https://arxiv.org/abs/2410.17482">Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don't mimic the full human distribution</a>. GenBench @ EMNLP. <b>👑Best paper award</b>
 
 <b>Najoung Kim</b> and Paul Smolensky. <a target="_blank" href="https://osf.io/preprints/psyarxiv/v9h8u">Structural Generalization of Modification in Adult Learners of an Artificial Language</a>. CogSci.
-
-Hayley Ross, <b>Najoung Kim</b>, and Kathryn Davidson. <a target="_blank" href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a>. ELM 3.
 
 Katherine M. Collins, <b>Najoung Kim</b>, Yonatan Bitton, Verena Rieser, Shayegan Omidshafiei, Yushi Hu, Sherol Chen, Senjuti Dutta, Minsuk Chang, Kimin Lee, Youwei Liang, Georgina Evans, Sahil Singla, Gang Li, Adrian Weller, Junfeng He, Deepak Ramachandran, and Krishnamurthy Dj Dvijotham. <a target="_blank" href="https://arxiv.org/abs/2406.16807">Beyond Thumbs Up/Down: Untangling Challenges of Fine-Grained Feedback for Text-to-Image Generation</a>. AIES.
 
@@ -53,7 +58,7 @@ Wentao Wang, Wai Keen Vong, <b>Najoung Kim</b>, and Brenden M. Lake. <a target="
 
 <b>Najoung Kim</b>,\* Phu Mon Htut,\* Samuel R. Bowman, and Jackson Petty. <a target="_blank" href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution)
 
-<b>Najoung Kim</b>\* and Sebastian Schuster.\* <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a>. Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution) <b>Area Chair Award</b>
+<b>Najoung Kim</b>\* and Sebastian Schuster.\* <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a>. Annual Conference of the Association for Computational Linguistics (ACL). (\*Equal contribution) <b>👑Area Chair Award</b>
 
 Seyed Mehran Kazemi, <b>Najoung Kim</b>, Deepti Bhatia, Xin Xu, and Deepak Ramachandran.  <a target="_blank" href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. Annual Conference of the Association for Computational Linguistics (ACL).
 
@@ -84,7 +89,7 @@ Sadhwi Srinivas, <b>Najoung Kim</b>, and Kyle Rawlins. <a target="_blank" href="
 ### 2019
 <b>Najoung Kim</b> and Tal Linzen. <a href="/assets/files/Kim_Linzen_NeurIPS_workshop_camready.pdf">Compositionality as Directional Consistency in Sequential Neural Networks</a>. <i>Workshop on Context and Compositionality in Biological and Artificial Neural Systems, 33rd Conference on Neural Information Processing Systems (NeurIPS 2019)</i>.
 
-<b>Najoung Kim</b>, Roma Patel, Adam Poliak, Alex Wang, Patrick Xia, Tom McCoy, Ian Tenney, Alexis Ross, Tal Linzen, Benjamin Van Durme, Sam Bowman, and Ellie Pavlick. <a target="_blank" href="https://arxiv.org/abs/1904.11544">Probing What Different NLP Tasks Teach Machines About Function Word Comprehension</a>. <i>Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (\*SEM)</i>. <b>Best Paper Award</b>
+<b>Najoung Kim</b>, Roma Patel, Adam Poliak, Alex Wang, Patrick Xia, Tom McCoy, Ian Tenney, Alexis Ross, Tal Linzen, Benjamin Van Durme, Sam Bowman, and Ellie Pavlick. <a target="_blank" href="https://arxiv.org/abs/1904.11544">Probing What Different NLP Tasks Teach Machines About Function Word Comprehension</a>. <i>Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (\*SEM)</i>. <b>👑Best Paper Award</b>
 
 Alex Wang, Jan Hula, Patrick Xia, Raghavendra  Pappagari,  R. Thomas McCoy, Roma Patel, <b>Najoung Kim</b>, Ian Tenney, Yinghui Huang, Katherin Yu, Shuning Jin, Berlin Chen, Benjamin Van Durme, Edouard Grave, Ellie Pavlick, and Samuel R. Bowman. <a target="_blank" href="https://www.aclweb.org/anthology/P19-1439">How to Get Past Sesame Street: Sentence-Level Pretraining Beyond Language Modeling</a>. <i>Proceedings of the Annual Conference of the Association for Computational Linguistics (ACL)</i>.
 
