@@ -19,6 +19,7 @@ I have a new "<a href="/students">For students</a>" section for current and pros
 	* <a href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a> (with Nitish Joshi, Javier Rando, Abulhair Saparov, and He He)
 * Sep 2024: Gave an invited talk at the <a href="https://simons.berkeley.edu/workshops/emerging-generalization-settings/schedule">Emerging Generalization Settings Workshop</a> at the Simons Institute on human and machine inductive biases for compositional linguistic generalization.
 * Aug 2024: <a href="https://arxiv.org/abs/2408.05086">Preprint on neural network learners as hypothesis generators</a> is out! Work with Kanishka Misra.
+
 <!--* * June 2024: Hayley Ross presented <a href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a> at ELM 3!
 * May 2024: <a href="https://arxiv.org/abs/2405.21068">Preprint on code & entity tracking</a> is out! Work with Sebastian Schuster and Shubham Toshniwal.
 * May 2024: Gave an invited talk at the <a href="https://newhorizonsinlanguagescience.github.io/">NSF New Horizons Workshop</a> on Linguistic tests as unit tests and <a href="https://www.neuromonster.org/">Mathematics Of Neuroscience and AI Convention</a> on compositional generalization in neural networks.
