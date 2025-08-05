@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-You can download my current CV <a target="_blank" href="/assets/files/cv.pdf">here</a> (updated Jan 2025).
+You can download my current CV <a target="_blank" href="/assets/files/cv.pdf">here</a> (updated Aug 2025).

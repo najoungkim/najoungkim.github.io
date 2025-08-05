@@ -10,23 +10,33 @@ permalink: /publications/
 
 ### Work in Progress
 
+Nicholas Edwards,\* Yukyung Lee,\* Yujun Audrey Mao, Yulu Qin, Sebastian Schuster,<sup>†</sup> and <b>Najoung Kim</b>.<sup>†</sup> <a href="https://arxiv.org/abs/2506.22598">RExBench: Can coding agents autonomously implement AI research extensions?</a> arXiv. (\*,<sup>†</sup>Equal contribution)
+
+Yulu Qin,\* Dheeraj Varghese,\* Adam Dahlgren Lindstr&ouml;m, Lucia Donatelli, Kanishka Misra,<sup>†</sup> and <b>Najoung Kim</b>.<sup>†</sup> <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a>. arXiv. (\*,<sup>†</sup>Equal contribution)
+
 Kanishka Misra and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2408.05086">
 Generating novel experimental hypotheses from language models: A case study on cross-dative generalization</a>. arXiv.
 
-<b>Najoung Kim</b>,\* Sebastian Schuster,\* and Shubham Toshniwal.\* <a target="_blank" href="https://arxiv.org/abs/2405.21068">
-Code Pretraining Improves Entity Tracking Abilities of Language Models</a>. arXiv. (\*Equal contribution)
+Yukyung Lee, JoongHoon Kim, Jaehee Kim, Hyowon Cho, Jaewook Kang, Pilsung Kang, and <b>Najoung Kim</b>. <a href="https://arxiv.org/abs/2403.18771">CheckEval: A reliable LLM-as-a-Judge framework for evaluating text generation using checklists</a>. arXiv.
 
+Arkadiy Saakyan, Josh Lee, Michal Todorovic, Deepak Ramachandran, Quan Yuan, Isabelle Guyon, and <b>Najoung Kim</b>. Evaluating Critic Models for Human-AI Co-Creation: A Case Study with AI Critiques of Presentation Slides.
 
 ### 2025
+Hayley Ross, Kathryn Davidson, and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2503.24293"> Is analogy enough to draw novel adjective-noun inferences?</a> SCiL.
+
+Aditya Yedetore and <b>Najoung Kim</b>. Implicit mechanisms for symbol manipulation in RNNs. NENLP.
+
 Abulhair Saparov, Srushti Pawar, Shreyas Pimpalgaonkar, Nitish Joshi, Richard Yuanzhe
 Pang, Vishakh Padmakumar, Seyed Mehran Kazemi, <b>Najoung Kim</b>,\* and He He.\* <a href="https://openreview.net/forum?id=9cQB1Hwrtw">Transformers Struggle to Learn to Search Without In-context Exploration</a>. ICLR. (\*Equal contribution)
 
 Hayley Ross, <b>Najoung Kim</b>, and Kathryn Davidson. <a target="_blank" href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a>. ELM 3.
 
-
 ### 2024
 
 Aditya Yedetore and <b>Najoung Kim</b>. <a href="https://adityayedetore.github.io/assets/pdf/emnlp_2024_semantic_cues_to_hierarchy.pdf">Semantic Training Signals Promote Hierarchical Syntactic Generalization in Neural Networks</a>. EMNLP.
+
+<b>Najoung Kim</b>,\* Sebastian Schuster,\* and Shubham Toshniwal.\* <a target="_blank" href="https://arxiv.org/abs/2405.21068">
+Code Pretraining Improves Entity Tracking Abilities of Language Models</a>. arXiv. (\*Equal contribution)
 
 Nitish Joshi, Javier Rando, Abulhair Saparov, <b>Najoung Kim</b>, and He He. <a target="_blank" href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a>. EMNLP.
 
