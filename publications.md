@@ -12,16 +12,24 @@ permalink: /publications/
 
 Nicholas Edwards,\* Yukyung Lee,\* Yujun Audrey Mao, Yulu Qin, Sebastian Schuster,<sup>†</sup> and <b>Najoung Kim</b>.<sup>†</sup> <a href="https://arxiv.org/abs/2506.22598">RExBench: Can coding agents autonomously implement AI research extensions?</a> arXiv. (\*,<sup>†</sup>Equal contribution)
 
-Yulu Qin,\* Dheeraj Varghese,\* Adam Dahlgren Lindstr&ouml;m, Lucia Donatelli, Kanishka Misra,<sup>†</sup> and <b>Najoung Kim</b>.<sup>†</sup> <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a>. arXiv. (\*,<sup>†</sup>Equal contribution)
-
 Kanishka Misra and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2408.05086">
 Generating novel experimental hypotheses from language models: A case study on cross-dative generalization</a>. arXiv.
 
-Yukyung Lee, JoongHoon Kim, Jaehee Kim, Hyowon Cho, Jaewook Kang, Pilsung Kang, and <b>Najoung Kim</b>. <a href="https://arxiv.org/abs/2403.18771">CheckEval: A reliable LLM-as-a-Judge framework for evaluating text generation using checklists</a>. arXiv.
+Arkadiy Saakyan, <b>Najoung Kim</b>, Smaranda Muresan, Tuhin Chakrabarty. <a target="_blank" href="https://arxiv.org/abs/2509.22641">
+Death of the Novel(ty): Beyond n-Gram Novelty as a Metric for Textual Creativity</a>. arXiv.
 
-Arkadiy Saakyan, Josh Lee, Michal Todorovic, Deepak Ramachandran, Quan Yuan, Isabelle Guyon, and <b>Najoung Kim</b>. Evaluating Critic Models for Human-AI Co-Creation: A Case Study with AI Critiques of Presentation Slides.
+Eunsu Kim, Junyeong Park, Juhyun Oh, Kiwoong Park, Seyoung Song, A. Seza Doğruöz, <b>Najoung Kim</b>,\* and Alice Oh.\* <a target="_blank" href="https://arxiv.org/abs/2510.19028">
+Are they lovers or friends? Evaluating LLMs' Social Reasoning in English and Korean Dialogue</a>. arXiv. (\*Equal contribution)
 
 ### 2025
+Yulu Qin,\* Dheeraj Varghese,\* Adam Dahlgren Lindstr&ouml;m, Lucia Donatelli, Kanishka Misra,<sup>†</sup> and <b>Najoung Kim</b>.<sup>†</sup> <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a>. NeurIPS. (\*,<sup>†</sup>Equal contribution)
+
+Yukyung Lee, JoongHoon Kim, Jaehee Kim, Hyowon Cho, Jaewook Kang, Pilsung Kang, and <b>Najoung Kim</b>. <a href="https://arxiv.org/abs/2403.18771">CheckEval: A reliable LLM-as-a-Judge framework for evaluating text generation using checklists</a>. EMNLP.
+
+Zilu (Peter) Tang, Qiao Zhao, Gabriel Franco, Geneva Yang, Angelos Poulis, Derry
+Wijaya, Aaron Mueller, Sebastian Schuster, and <b>Najoung Kim</b> (2025). <a href="/assets/files/2025_NEMI_entity_tracking.pdf">Mechanistic
+Understanding of Entity Tracking in Natural Language involving Multiple Operations</a>. New England Mechanistic Interpretability Workshop (NEMI).
+
 Hayley Ross, Kathryn Davidson, and <b>Najoung Kim</b>. <a target="_blank" href="https://arxiv.org/abs/2503.24293"> Is analogy enough to draw novel adjective-noun inferences?</a> SCiL.
 
 Aditya Yedetore and <b>Najoung Kim</b>. Implicit mechanisms for symbol manipulation in RNNs. NENLP.
@@ -37,6 +45,8 @@ Aditya Yedetore and <b>Najoung Kim</b>. <a href="https://adityayedetore.github.i
 
 <b>Najoung Kim</b>,\* Sebastian Schuster,\* and Shubham Toshniwal.\* <a target="_blank" href="https://arxiv.org/abs/2405.21068">
 Code Pretraining Improves Entity Tracking Abilities of Language Models</a>. arXiv. (\*Equal contribution)
+
+Arkadiy Saakyan, Josh Lee, Michal Todorovic, Deepak Ramachandran, Quan Yuan, Isabelle Guyon, and <b>Najoung Kim</b>. Evaluating Critic Models for Human-AI Co-Creation: A Case Study with AI Critiques of Presentation Slides.
 
 Nitish Joshi, Javier Rando, Abulhair Saparov, <b>Najoung Kim</b>, and He He. <a target="_blank" href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a>. EMNLP.
 

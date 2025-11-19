@@ -5,22 +5,42 @@ title: Home
 
 I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of Linguistics</a> and an Affiliated Faculty at the <a href="https://www.bu.edu/cs/">Department of Computer Science</a> at Boston University. I was a Visiting Faculty Researcher at Google DeepMind until very recently. Before that, I was a Faculty Fellow at the <a href="https://cds.nyu.edu/">Center for Data Science</a> at New York University and a PhD student in the <a href="https://cogsci.jhu.edu/">Department of Cognitive Science</a> at Johns Hopkins University, advised by Dr. <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> and Dr. <a href="http://sites.krieger.jhu.edu/rawlins/">Kyle Rawlins</a>. My interests, broadly, are meaning and generalization in human and machine learners. I use computational and experimental linguistic methodologies to explore these areas. Please refer to the <a href="/publications">Publications</a> section to find out more.
 
-I have a new "<a href="/students">For students</a>" section for current and prospective students!
+**I'm recruiting: please take a look at the "<a href="/students">For students</a>" section if you're interested in working with me!**
 
 * * *
 ### Updates
+* Where you can catch me in the near future:
+	* I will be attending NeurIPS (Nov)
+	* Invited talk at <a href="https://ling.yale.edu/events">Yale Linguistics Colliquium Series</a> (Jan)
+	* Invited talk at <a href="https://ivado.ca/en/thematic-programs/computational-ingredients-of-reasoning/?menu_3">Cognitive Basis of Reasoning (in Minds and AI) Workshop, IVADO</a> (Feb)
+* Nov 2025: I gave a plenary address at the Society for Language Development titled "Whence insights? The value of delineating human and machine CogSci". <a href="https://docs.google.com/presentation/d/1vz8ysW_wvUz_miQFwGOPTfYR5xEVYJAd90St0yyxQxs/edit?usp=sharing">Slides here</a>
+
+* Sep 2025: <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a> was accepted to NeurIPS! (work with Yulu Qin, Dheeraj Varghese, Adam Dahlgren Lindström, Lucia Donatelli, & Kanishka Misra)
+
+* Sep 2025: <a href="https://arxiv.org/abs/2509.22641">Death of the Novel(ty): Beyond n-Gram Novelty as a Metric for Textual Creativity</a> is now on arXiv (work with Arkadiy Saakyan, Smaranda Muresan, & Tuhin Chakrabarty)
+
+* Aug 2025: Yukyung's work <a href="https://arxiv.org/abs/2403.18771">CheckEval: A reliable LLM-as-a-Judge framework for evaluating text generation using checklists</a> was accepted to EMNLP!
+
+* Aug 2025: Several tinlab members presented <a href="/assets/files/2025_NEMI_entity_tracking.pdf">Mechanistic Understanding of Entity Tracking in Natural Language involving Multiple Operations</a> at NEMI.
+
 * Jul 2025: I was at a <a href="https://www.dagstuhl.de/">Dagstuhl</a> seminar! 🏰
+
 * Jul 2025: Our lab's research on mechanistic understanding of reasoning/explanations in entity tracking is being supported by MassMutual.
+
 * Jun 2025: <a href="https://arxiv.org/abs/2506.22598">RExBench: Can coding agents autonomously implement AI research extensions?</a> is out on arXiv (work with Nicholas Edwards, Yukyung Lee, Yujun Audrey Mao, Yulu Qin, & Sebastian Schuster). Also see <a href="https://rexbench.com">https://rexbench.com</a>!
-* Jun 2025: <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a> is out on arXiv (work with Yulu Qin, Dheeraj Varghese, Adam Dahlgren Lindström, Lucia Donatelli, & Kanishka Misra).
+
+<!--* * Jun 2025: <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a> is out on arXiv (work with Yulu Qin, Dheeraj Varghese, Adam Dahlgren Lindström, Lucia Donatelli, & Kanishka Misra).
+
 * Jun 2025: Gave keynote talks about compositionality at <a href="https://sites.google.com/view/repl4nlp2025">Repl4NLP</a> & <a href="https://cphnlp.github.io/">Copenhagen NLP Symposium</a>! (<a href="https://docs.google.com/presentation/d/1qAHCpgQtK3vqYw-adRwGJ1CB1qH8cbuWoJRZZHBVZf4/">slides</a>)
+
+
 * Apr 2025: <a href="https://arxiv.org/abs/2503.24293">Is analogy enough to draw novel adjective-noun inferences?</a> accepted to SCiL (work with Hayley Ross and Kate Davidson).
 * Apr 2025: Aditya Yedetore and Hayley Ross presented at NENLP:
 	*  Implicit mechanisms for symbol manipulation in RNNs (Adi)
 	* Is analogy enough to draw novel adjective-noun inferences? (Hayley)
 * Mar 2025: Gave a keynote talk at the <a href="https://sites.google.com/view/sage-mlu-2025/home">SAGE-MLU workshop</a> in Amsterdam on multimodal AI critiques.
 
-<!--* * Jan 2025: <a href="https://openreview.net/forum?id=9cQB1Hwrtw">Transformers Struggle to Learn to Search Without In-context Exploration</a> accepted to ICLR.
+* Jan 2025: <a href="https://openreview.net/forum?id=9cQB1Hwrtw">Transformers Struggle to Learn to Search Without In-context Exploration</a> accepted to ICLR.
 * Nov 2024: We got a best paper award at Genbench! For <a href="https://arxiv.org/abs/2410.17482">Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don't mimic the full human distribution</a> (with Hayley Ross and Kate Davidson).
 
 * Nov 2024: I gave a keynote talk at Genbench @ EMNLP!
