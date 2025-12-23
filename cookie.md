@@ -4,6 +4,16 @@ title: C is for Cookie
 permalink: /cookie/
 ---
 
+This is my cat Cookie in 2025, just being chill.
+<br>
+<br>
+<img src="/assets/img/cookie_2025.png">
+
+This is my cat Cookie in 2024 occupying a box. Late with the update but better late than never!!!
+<br>
+<br>
+<img src="/assets/img/cookie_2024.png">
+
 This is my cat Cookie in 2023. Will he ever be uncute? It is very unclear
 <br>
 <br>

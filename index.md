@@ -10,9 +10,11 @@ I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of L
 * * *
 ### Updates
 * Where you can catch me in the near future:
-	* I will be attending NeurIPS (Nov)
-	* Invited talk at <a href="https://ling.yale.edu/events">Yale Linguistics Colliquium Series</a> (Jan)
-	* Invited talk at <a href="https://ivado.ca/en/thematic-programs/computational-ingredients-of-reasoning/?menu_3">Cognitive Basis of Reasoning (in Minds and AI) Workshop, IVADO</a> (Feb)
+	* Invited talk at <a href="https://ivado.ca/en/thematic-programs/computational-ingredients-of-reasoning/?menu_3">Cognitive Basis of Reasoning (in Minds and AI) Workshop, IVADO</a> (Jan)
+	* Invited talk at <a href="https://ling.yale.edu/events">Yale Linguistics Colloquium Series</a> (Feb)
+	* Invited talk at Stanford NLP Seminar (May)
+* Dec 2025: Gave an invited talk at UCSD Linguistics 💗
+
 * Nov 2025: I gave a plenary address at the Society for Language Development titled "Whence insights? The value of delineating human and machine CogSci". <a href="https://docs.google.com/presentation/d/1vz8ysW_wvUz_miQFwGOPTfYR5xEVYJAd90St0yyxQxs/edit?usp=sharing">Slides here</a>
 
 * Sep 2025: <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a> was accepted to NeurIPS! (work with Yulu Qin, Dheeraj Varghese, Adam Dahlgren Lindström, Lucia Donatelli, & Kanishka Misra)
