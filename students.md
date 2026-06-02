@@ -6,39 +6,11 @@ permalink: /students/
 
 ### 🤖 Joining tinlab 🦔
 
-<center><img src="/assets/img/tinlab.png" style="max-width:60%;"></center>
-<br>
-
-Thanks for your interest in working with me! I am open to recruiting a postdoctoral fellow and/or PhD students to join my group. More details below 👇
-
-**Postdoctoral fellows:** I may have funding to host a postdoctoral fellow with flexible starting dates.  here is no topic or project restriction to this position, but I hope to recruit someone only if we have a strong research fit; please email me if you are interested. More generally, I am also open to writing a grant/fellowship application together, but please reach out to me earlier (at least a year before the desired start date) if you'd like to pursue this option. 
-
-**PhD students:** I am broadly recruiting PhD students through Linguistics, Computer Science and the Center for Data Science every year unless there are special circumstances. If you mention my name in the application in any of these departments, I will read your application.
-
-The Linguistics department will be a better fit for you if you are interested in scientific questions about language and/or broader Cognitive Science. If you are primarily interested in AI, I recommend applying to Computer Science (CS) or the Center for Computing & Data Sciences (CDS), depending on your curricular interests and maybe fit with other faculty in the respective departments.
-
-I will also be recruiting through CS & CDS (preferably jointly with other faculty), but I am primarily interested in students who either have joint interests in CogSci/Linguistics or students whose primary interests are in model evaluation. I typically do not work with students whose interests are only machine learning/artificial intelligence more generally.
-
-Application links:
-
-[Linguistics](https://www.bu.edu/linguistics/admissions/) (Deadline Jan 7)<br> 
-[Computer Science](https://www.bu.edu/cs/phd-program/phd/) (Deadline Dec 15)<br> 
-[Center for Computing & Data Science](https://www.bu.edu/cds-faculty/programs-admissions/) (Deadline Dec 15)
+Please refer to the [lab website](https://najoung.kim/tinlab/joining) for opportunities.
 
 * * *
 
-### Research opportunities for BU students
-
-**Undergrads**: I typically ask undergraduate students to have taken & performed well in at least one of my advanced computational courses (i.e., non-intro) before discussing research opportunities, unless you already have prior research experiences. I try to agree to supervise undergraduate research very sparingly, but feel free to reach out if you do meet one of the criteria I mentioned.
-
-**MS students**: I have limited availability for MS supervision. I might agree to collaborating in rare circumstances, but similarly to undergraduates I'll typically only agree to work with students who have taken one of my non-intro classes.
-
-**PhD students who are not my advisees**: Reach out to me and we can discuss more!
-
-
-* * *
-
-### Recommendation letters
+### ✉️ Recommendation letter policy ⚠️
 
 If you've worked with me in some capacity I'd be very happy to write you a recommendation letter. But for this I ask you to kindly do the following:
 

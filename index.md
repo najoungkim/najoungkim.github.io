@@ -5,104 +5,25 @@ title: Home
 
 I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of Linguistics</a> and an Affiliated Faculty at the <a href="https://www.bu.edu/cs/">Department of Computer Science</a> at Boston University. I was a Visiting Faculty Researcher at Google DeepMind until very recently. Before that, I was a Faculty Fellow at the <a href="https://cds.nyu.edu/">Center for Data Science</a> at New York University and a PhD student in the <a href="https://cogsci.jhu.edu/">Department of Cognitive Science</a> at Johns Hopkins University, advised by Dr. <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> and Dr. <a href="http://sites.krieger.jhu.edu/rawlins/">Kyle Rawlins</a>. My interests, broadly, are meaning and generalization in human and machine learners. I use computational and experimental linguistic methodologies to explore these areas. Please refer to the <a href="/publications">Publications</a> section to find out more.
 
-**I'm recruiting: please take a look at the "<a href="/students">For students</a>" section if you're interested in working with me!**
+**The new lab website is live, check it out [here](https://najoung.kim/tinlab)!**
 
 * * *
 ### Updates
-* Where you can catch me in the near future:
-	* Invited talk at <a href="https://ivado.ca/en/thematic-programs/computational-ingredients-of-reasoning/?menu_3">Cognitive Basis of Reasoning (in Minds and AI) Workshop, IVADO</a> (Jan)
-	* Invited talk at <a href="https://ling.yale.edu/events">Yale Linguistics Colloquium Series</a> (Feb)
-	* Invited talk at Stanford NLP Seminar (May)
-* Dec 2025: Gave an invited talk at UCSD Linguistics 💗
+* May 2026: <a href="https://arxiv.org/abs/2605.30233">Do Language Models Track Entities Across State Changes?</a> has been accepted to ICML 2026! Work with Peter Tang, Qiao Zhao, Gabriel Franco, Derry Wijaya, Aaron Mueller, and Sebastian Schuster.
 
-* Nov 2025: I gave a plenary address at the Society for Language Development titled "Whence insights? The value of delineating human and machine CogSci". <a href="https://docs.google.com/presentation/d/1vz8ysW_wvUz_miQFwGOPTfYR5xEVYJAd90St0yyxQxs/edit?usp=sharing">Slides here</a>
+* April 2026: <a href="https://arxiv.org/abs/2506.22598">RExBench</a> has been accepted to ACL 2026! Work with Nicholas Edwards, Yukyung Lee, Audrey Mao, Yulu Qin, and Sebastian Schuster.
 
-* Sep 2025: <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a> was accepted to NeurIPS! (work with Yulu Qin, Dheeraj Varghese, Adam Dahlgren Lindström, Lucia Donatelli, & Kanishka Misra)
+* April 2026: <a href="https://arxiv.org/abs/2510.19028">Are they lovers or friends?</a> has been accepted to ACL 2026! Collaboration with KAIST team and Seza :)
 
-* Sep 2025: <a href="https://arxiv.org/abs/2509.22641">Death of the Novel(ty): Beyond n-Gram Novelty as a Metric for Textual Creativity</a> is now on arXiv (work with Arkadiy Saakyan, Smaranda Muresan, & Tuhin Chakrabarty)
+* April 2026: "Does Episodic Memory Help Close the Lexical Frequency Gap in Sensitivity to Syntactic Contrasts? A Test Using Retrieval-Augmented Language Models" has been accepted to CogSci 2026! Work with Jing Liu.
 
-* Aug 2025: Yukyung's work <a href="https://arxiv.org/abs/2403.18771">CheckEval: A reliable LLM-as-a-Judge framework for evaluating text generation using checklists</a> was accepted to EMNLP!
+* March 2026: Presented "(How) Do Language Models Track Entities Across State Changes?" at MassMutual (work with Peter Tang, Qiao Zhao, Gabriel Franco, Derry Wijaya, Aaron Mueller, and Sebastian Schuster).
 
-* Aug 2025: Several tinlab members presented <a href="/assets/files/2025_NEMI_entity_tracking.pdf">Mechanistic Understanding of Entity Tracking in Natural Language involving Multiple Operations</a> at NEMI.
+* March 2026: Was at Brandeis CL/NLP for a panel discussion.
 
-* Jul 2025: I was at a <a href="https://www.dagstuhl.de/">Dagstuhl</a> seminar! 🏰
+* January 2026: Presented "Classical Computation in Connectionist Models" at IVADO (work with Aditya Yedetore).
 
-* Jul 2025: Our lab's research on mechanistic understanding of reasoning/explanations in entity tracking is being supported by MassMutual.
-
-* Jun 2025: <a href="https://arxiv.org/abs/2506.22598">RExBench: Can coding agents autonomously implement AI research extensions?</a> is out on arXiv (work with Nicholas Edwards, Yukyung Lee, Yujun Audrey Mao, Yulu Qin, & Sebastian Schuster). Also see <a href="https://rexbench.com">https://rexbench.com</a>!
-
-<!--* * Jun 2025: <a href="https://arxiv.org/abs/2507.13328">Vision-and-Language Training Helps Deploy Taxonomic Knowledge but Does Not Fundamentally Alter It</a> is out on arXiv (work with Yulu Qin, Dheeraj Varghese, Adam Dahlgren Lindström, Lucia Donatelli, & Kanishka Misra).
-
-* Jun 2025: Gave keynote talks about compositionality at <a href="https://sites.google.com/view/repl4nlp2025">Repl4NLP</a> & <a href="https://cphnlp.github.io/">Copenhagen NLP Symposium</a>! (<a href="https://docs.google.com/presentation/d/1qAHCpgQtK3vqYw-adRwGJ1CB1qH8cbuWoJRZZHBVZf4/">slides</a>)
-
-
-* Apr 2025: <a href="https://arxiv.org/abs/2503.24293">Is analogy enough to draw novel adjective-noun inferences?</a> accepted to SCiL (work with Hayley Ross and Kate Davidson).
-* Apr 2025: Aditya Yedetore and Hayley Ross presented at NENLP:
-	*  Implicit mechanisms for symbol manipulation in RNNs (Adi)
-	* Is analogy enough to draw novel adjective-noun inferences? (Hayley)
-* Mar 2025: Gave a keynote talk at the <a href="https://sites.google.com/view/sage-mlu-2025/home">SAGE-MLU workshop</a> in Amsterdam on multimodal AI critiques.
-
-* Jan 2025: <a href="https://openreview.net/forum?id=9cQB1Hwrtw">Transformers Struggle to Learn to Search Without In-context Exploration</a> accepted to ICLR.
-* Nov 2024: We got a best paper award at Genbench! For <a href="https://arxiv.org/abs/2410.17482">Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don't mimic the full human distribution</a> (with Hayley Ross and Kate Davidson).
-
-* Nov 2024: I gave a keynote talk at Genbench @ EMNLP!
-* Nov 2024: Gave an invited talk at <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/index.html">UMass Amherst NLP</a> on entity tracking. 
-* Oct 2024: Gave an invited talk at <a href="https://sites.harvard.edu/langcog/">Harvard LangCog</a> on neural network models as hypothesis generators.!
-* Sep 2024: Two papers accepted to EMNLP!
-	* <a href="https://adityayedetore.github.io/assets/pdf/emnlp_2024_semantic_cues_to_hierarchy.pdf">Semantic Training Signals Promote Hierarchical Syntactic Generalization in Transformers</a> (with Aditya Yedetore)
-	* <a href="https://arxiv.org/abs/2310.18168">Personas as a Way to Model Truthfulness in Language Models</a> (with Nitish Joshi, Javier Rando, Abulhair Saparov, and He He)
-* Sep 2024: Gave an invited talk at the <a href="https://simons.berkeley.edu/workshops/emerging-generalization-settings/schedule">Emerging Generalization Settings Workshop</a> at the Simons Institute on human and machine inductive biases for compositional linguistic generalization.
-* Aug 2024: <a href="https://arxiv.org/abs/2408.05086">Preprint on neural network learners as hypothesis generators</a> is out! Work with Kanishka Misra.
-* June 2024: Hayley Ross presented <a href="https://ling.auf.net/lingbuzz/008012">Fake reefs are sometimes reefs and sometimes not, but are always compositional</a> at ELM 3!
-* May 2024: <a href="https://arxiv.org/abs/2405.21068">Preprint on code & entity tracking</a> is out! Work with Sebastian Schuster and Shubham Toshniwal.
-* May 2024: Gave an invited talk at the <a href="https://newhorizonsinlanguagescience.github.io/">NSF New Horizons Workshop</a> on Linguistic tests as unit tests and <a href="https://www.neuromonster.org/">Mathematics Of Neuroscience and AI Convention</a> on compositional generalization in neural networks.
-April 2024: Gave an invited talk at MIT CPL lab on using simulated learners for hypothesis generation.
-* April 2024: My students Adi Yedetore and Hayley Ross presented their work at <a href="https://nenlp.github.io/spr2024/">NENLP</a>! 
-* March 2024: Gave an invited talk at <a href="https://events.brown.edu/linguistics/event/278028-linglanglatelunch-najoung-kim-boston-university">Brown Linguistics</a> on using simulated learners for hypothesis generation and a keynote talk at Scale-LLM Workshop on inverse scaling.
-* Feb 2024: Gave an invited talk at <a href="https://sites.google.com/utexas.edu/sxsw/schedule">UT Austin SXSW</a> on entity tracking in LMs.
-* Feb 2024: Abstract on context-dependent privative inferences about A+Ns accepted to <a href="https://www.elm-conference.net/archive/elm-3-2024/">ELM 3</a> (Work with Hayley Ross and Kate Davidson).
-* Nov 2023: I was appointed as a <a href="https://www.bu.edu/cds-faculty/2023/11/11/faculty-fellows-2023/">CDS Faculty Fellow</a> at BU! 2nd CDS Faculty Fellow position I've held :)
-* Oct 2023: Presented <a href="https://kanishka.website/papers/bucld48.pdf">Abstraction via exemplars?</a> at <a href="https://www.bu.edu/bucld/">BUCLD</a>.
-* Oct 2023: Invited talks at <a href="https://nlp.cis.upenn.edu/clunch.html">Penn NLP Seminar</a> on entity tracking and <a href="https://yalefds.swoogo.com/ml/4301364">Yale/Google ML Workshop</a> on LLM reasoning.
-* Oct 2023: The following papers were accepted to EMNLP 2023.
-	* <a href="https://arxiv.org/abs/2310.15040">SLOG: A Structural Generalization Benchmark for Semantic Parsing</a>. Bingzhi Li, Lucia Donatelli, Alexander Koller, Tal Linzen, Yuekun Yao, and Najoung Kim.
-	* <a href="https://arxiv.org/abs/2211.02011">Inverse scaling can become U-shaped</a>. Jason Wei,* Najoung Kim,* Yi Tay, and Quoc V. Le.
-* Sep 2023: Invited talk at <a href="https://cuhklpl.github.io/forum.html">Virtual Psycholinguistics Forum</a> on category learning in LMs.
-* Sep 2023: <a href="https://arxiv.org/abs/2306.09479">Inverse scaling paper</a> accepted to TMLR.
-* Sep 2023: The following papers were accepted to NeurIPS 2023.
-	* <a target="_blank" href="https://arxiv.org/abs/2305.15269">Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples</a>. Abulhair Saparov, Richard Yuanzhe Pang, Vishakh Padmakumar, Nitish Joshi, Seyed Mehran Kazemi, Najoung Kim,\* and He He.\*
-	* <a target="_blank" href="https://arxiv.org/abs/2306.07934">BoardgameQA: A Dataset for Natural Language Reasoning with Contradictory Information</a>. Mehran Kazemi, Quan Yuan, Deepti Bhatia, Najoung Kim, Xin Xu, Vaiva Imbrasaite, and Deepak Ramachandran.
-* July 2023: <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a> received the <a href="https://2023.aclweb.org/program/best_papers/">Area Chair Award</a> on the Interpretability & Analysis track at ACL!
-* July 2023: <a href="https://arxiv.org/abs/2307.02477">Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks</a> is on arXiv.
-* June 2023: <a href="https://arxiv.org/abs/2306.09479">Writeup of the Inverse Scaling Competition</a> and <a href="https://arxiv.org/abs/2306.07934">new Google work on defeasible reasoning</a> are on arXiv.
-* June 2023: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.13305">Finding Structure in One Child's Linguistic Experience</a> has been published in Cognitive Science.
-* May 2023: Preprint of <a href="https://arxiv.org/abs/2305.15269">Testing the General Deductive Reasoning Capacity of Large Language Models Using OOD Examples</a> is now on arXiv.
-* May 2023: The following papers were accepted to ACL 2023.
-	* <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a>. Najoung Kim,\* Phu Mon Htut,\* Sam Bowman, and Jackson Petty
-	* <a href="https://arxiv.org/abs/2305.02363">Entity Tracking in Language Models</a>. Najoung Kim* and Sebastian Schuster*
-	* <a href="https://arxiv.org/abs/2212.13894">LAMBADA: Backward Chaining for Automated Reasoning in Natural Language</a>. Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, and Deepak Ramachandran
-	* <a href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a> (Findings). Najoung Kim, Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi
-* Spring 2023: Invited talks at Harvard (4/7) and Colgate (3/21).
-* Mar 2023: Preprints of works done at Google on <a href="https://arxiv.org/abs/2212.13894">LLM reasoning</a> and <a href="https://arxiv.org/abs/2211.02011">inverse scaling</a> are on arXiv.
-* Mar 2023: Inverse Scaling Prize <a href="https://github.com/inverse-scaling/prize">Round 2 results and data</a> are out & was featured on the GPT-4 report.
-* Feb 2023: I was on <a href="https://soundcloud.com/nlp-highlights/138-compositional-generalization-in-neural-networks-with-najoung-kim">NLP Highlights Podcast</a>, hosted by Allen Institute for AI!
-* Jan 2023: Started new job at BU! Now officially affiliated with Computer Science as well.	
-* Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10769">Uncontrolled Lexical Exposure Leads to Overestimation of Compositional Generalization in Pretrained Models</a> is out. Joint work with Tal Linzen and Paul Smolensky.
-* Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10003">(QA)^2: Question Answering with Questionable Assumptions</a> is out on arXiv. Joint with Phu Mon Htut, Sam Bowman, and Jackson Petty.
-* Dec 2022: Preprint of <a href="https://arxiv.org/abs/2212.10792">Reconstruction Probing</a> is out on arXiv. Joint work with Jatin Khilnani, Alex Warstadt, and Abed Qaddoumi.
-* Dec 2022: Preprint of <a href="https://psyarxiv.com/85k3y">Finding Structure in One Child's Linguistic Experience</a> is out on PsyArXiv. Join work with Wentao Wang, Wai Keen Vong and Brenden Lake.
-* Fall 2022: Invited talks at <a href="https://www.gc.cuny.edu/linguistics">CUNY</a> and <a href="https://flann-discord.github.io/">FlaNN</a>.
-* I will be visiting Google part-time starting this summer! 😎
-* Feb 2022: My <a href="https://jscholarship.library.jhu.edu/handle/1774.2/66745">dissertation</a> is now online.
-* Spring 2022: Invited talks at <a href="https://gdr-lift.loria.fr/monthy-online-ilfc-seminar/">Seminar on the interactions between formal and computational linguistics (ILFC)</a>, <a href="https://ling.bu.edu/spring-2022-colloquium-series/">BU Linguistics Colloqiuim Series</a>, <a href="https://complang.mit.edu">MIT CompLang</a>, Google, and UChicago.	
-* Fall 2021: Invited talks at <a href="https://cds.nyu.edu/">NYU CDS</a>, <a href="https://nylanguageworkshop.tumblr.com/post/663720689799413760/workshop-monday-october-4th-630-8pm-najoung">New York Philosophy of Language Workshop</a>, <a href="https://sites.google.com/umich.edu/cogscicmty/events">University of Michigan Cognitive Science Community</a>, <a href="https://ee.kaist.ac.kr/en/node/18403">KAIST Electrical Engineering Colloquium Series</a>, <a href="https://linguist.snu.ac.kr/category/board_9_SC_su0dnCGq_20201130121404/">Seoul National University Linguistics Colloqium</a>.	
-* Sep 2021: Started new job at <a href="https://cds.nyu.edu">NYU CDS</a>!
-* Aug 2021: Presented the  <a href="https://aclanthology.org/2021.acl-long.304">presupposition verification paper</a> at ACL. 
-* July 2021: Defended my dissertation 🎉
-* Jan 2021: Preprint for my internship work "Which Linguist Invented the Lightbulb? Presupposition Verification for Question-Answering" is now on <a href="https://arxiv.org/abs/2101.00391">arXiv</a>.
-* Dec 2020: "<a href="https://scholarworks.umass.edu/scil/vol4/iss1/60/">Testing for Grammatical Category Abstraction in Neural Language Models</a>" with <a href="https://www.microsoft.com/en-us/research/people/psmo/">Paul Smolensky</a> accepted to <a href="https://www.scil2021.org/">SCiL 2021</a>!
-* Nov 2020: Got awarded an <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=505033">NSF Doctoral Dissertation Improvement Grant in Linguistics</a>!! 🥳
-*Nov 2020: Wrapped up my internship/student researcher program at Google. Back to dissertating :)-->
+* January 2026: <a href="https://arxiv.org/abs/2509.22641">Death of the Novel(ty): Beyond n-Gram Novelty as a Metric for Textual Creativity</a> has been accepted to ICLR 2026! Work with Arkadiy Saakyan, Smaranda Muresan, and Tuhin Chakrabarty.
 
 * * *
 ### Education / Professional experience
