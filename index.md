@@ -9,6 +9,8 @@ I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of L
 
 * * *
 ### Updates
+* May 2026: Gave a talk titled _Language models for language sciences_ at <a href="https://nlp.stanford.edu/seminar/details/najoung_kim_2026.shtml">Stanford NLP</a>. Slides <a href="https://docs.google.com/presentation/d/168caKZ2YFwWHlDq2M14IRBaRvwOkJCPybtgQWJugP4E/edit?usp=sharing">here</a>.
+
 * May 2026: <a href="https://arxiv.org/abs/2605.30233">Do Language Models Track Entities Across State Changes?</a> has been accepted to ICML 2026! Work with Peter Tang, Qiao Zhao, Gabriel Franco, Derry Wijaya, Aaron Mueller, and Sebastian Schuster.
 
 * April 2026: <a href="https://arxiv.org/abs/2506.22598">RExBench</a> has been accepted to ACL 2026! Work with Nicholas Edwards, Yukyung Lee, Audrey Mao, Yulu Qin, and Sebastian Schuster.
