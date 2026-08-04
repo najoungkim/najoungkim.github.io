@@ -9,6 +9,8 @@ I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of L
 
 * * *
 ### Updates
+* July 2026: Preprint for "Linear representations of grammaticality in neural language models" is out on <a href="https://arxiv.org/abs/2607.15175">arXiv</a>. Joint work with Jane Li.
+
 * July 2026: Preprint for "No Escape from Behavior in Evaluating Compositionality" is out on <a href="https://osf.io/preprints/psyarxiv/u6tnx_v1">PsyArxiv</a>.
 
 * May 2026: Gave a talk titled _Language models for language sciences_ at <a href="https://nlp.stanford.edu/seminar/details/najoung_kim_2026.shtml">Stanford NLP</a>. Slides <a href="https://docs.google.com/presentation/d/168caKZ2YFwWHlDq2M14IRBaRvwOkJCPybtgQWJugP4E/edit?usp=sharing">here</a>.
@@ -26,8 +28,6 @@ I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of L
 * March 2026: Was at Brandeis CL/NLP for a panel discussion.
 
 * January 2026: Presented "Classical Computation in Connectionist Models" at IVADO (work with Aditya Yedetore).
-
-* January 2026: <a href="https://arxiv.org/abs/2509.22641">Death of the Novel(ty): Beyond n-Gram Novelty as a Metric for Textual Creativity</a> has been accepted to ICLR 2026! Work with Arkadiy Saakyan, Smaranda Muresan, and Tuhin Chakrabarty.
 
 * * *
 ### Education / Professional experience
