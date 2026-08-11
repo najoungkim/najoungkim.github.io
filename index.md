@@ -9,7 +9,11 @@ I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of L
 
 * * *
 ### Updates
+* July 2026: "Does Episodic Memory Help Close the Lexical Frequency Gap in Sensitivity to Syntactic Contrasts? A Test Using Retrieval-Augmented Language Models" has been accepted to COLM 2026! Work with Jing Liu.
+
 * July 2026: Preprint for "Linear representations of grammaticality in neural language models" is out on <a href="https://arxiv.org/abs/2607.15175">arXiv</a>. Joint work with Jane Li.
+
+* July 2026: Presented _How do we move beyond associative insights from Artificial Intelligence?_ at CreteLing. Slides <a href="https://docs.google.com/presentation/d/14zYuN8claT8AmKNYR05JumCjj2mngdrh32Xj9NVLNO0/edit?usp=sharing">here</a>
 
 * July 2026: Preprint for "No Escape from Behavior in Evaluating Compositionality" is out on <a href="https://osf.io/preprints/psyarxiv/u6tnx_v1">PsyArxiv</a>.
 
@@ -21,13 +25,9 @@ I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of L
 
 * April 2026: <a href="https://arxiv.org/abs/2510.19028">Are they lovers or friends?</a> has been accepted to ACL 2026! Collaboration with KAIST team and Seza :)
 
-* April 2026: "Does Episodic Memory Help Close the Lexical Frequency Gap in Sensitivity to Syntactic Contrasts? A Test Using Retrieval-Augmented Language Models" has been accepted to CogSci 2026! Work with Jing Liu.
-
 * March 2026: Presented "(How) Do Language Models Track Entities Across State Changes?" at MassMutual (work with Peter Tang, Qiao Zhao, Gabriel Franco, Derry Wijaya, Aaron Mueller, and Sebastian Schuster).
 
 * March 2026: Was at Brandeis CL/NLP for a panel discussion.
-
-* January 2026: Presented "Classical Computation in Connectionist Models" at IVADO (work with Aditya Yedetore).
 
 * * *
 ### Education / Professional experience
