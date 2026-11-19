@@ -9,6 +9,10 @@ I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of L
 
 * * *
 ### Updates
+* October 2026: Preprint for "Interpretability in the Limit: How Can Understanding Machines Help us Understand Human Language?" is out on <a href="https://osf.io/preprints/psyarxiv/5x6zj_v1">PsyArxiv</a>. Joint work with Ethan Wilcox.
+
+* October 2026: Presented _How do we move beyond associative insights from Artificial Intelligence?_ at Yale Linguistics Colloquium. Slides <a href="https://docs.google.com/presentation/d/1EhXJvDztC_GuHyezxNbsJpTdbEyVAQREjIP-RHfBz8w/edit?usp=sharing">here</a>
+
 * August 2026: "<a href="https://arxiv.org/abs/2609.03213">LLMs Learn Better In-Context from Rules than from Examples</a>" has been accepted to EMNLP 2026! (with Xiang Fu, Seung-Min Cho, and Yukyung Lee)
 
 * July 2026: "<a href="http://arxiv.org/abs/2608.23851">Does Episodic Memory Help Close the Lexical Frequency Gap in Sensitivity to Syntactic Contrasts? A Test Using Retrieval-Augmented Language Models</a>" has been accepted to COLM 2026! Work with Jing Liu.
@@ -24,10 +28,6 @@ I'm an Assistant Professor at the <a href="https://ling.bu.edu/">Department of L
 * May 2026: <a href="https://arxiv.org/abs/2605.30233">Do Language Models Track Entities Across State Changes?</a> has been accepted to ICML 2026! Work with Peter Tang, Qiao Zhao, Gabriel Franco, Derry Wijaya, Aaron Mueller, and Sebastian Schuster.
 
 * April 2026: <a href="https://arxiv.org/abs/2506.22598">RExBench</a> has been accepted to ACL 2026! Work with Nicholas Edwards, Yukyung Lee, Audrey Mao, Yulu Qin, and Sebastian Schuster.
-
-* April 2026: <a href="https://arxiv.org/abs/2510.19028">Are they lovers or friends?</a> has been accepted to ACL 2026! Collaboration with KAIST team and Seza :)
-
-* March 2026: Presented "(How) Do Language Models Track Entities Across State Changes?" at MassMutual (work with Peter Tang, Qiao Zhao, Gabriel Franco, Derry Wijaya, Aaron Mueller, and Sebastian Schuster).
 
 * * *
 ### Education / Professional experience
